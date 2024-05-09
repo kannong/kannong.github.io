@@ -19,6 +19,12 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+      <categories>
+        <category>编程页面</category>
+      </categories>
+      <tags>
+        <tag>编程技术</tag>
+      </tags>
   </entry>
   <entry>
     <title>music</title>
@@ -35,15 +41,21 @@
 
 <p> 创建一列自己的歌单：</p>
 
-        <div id="aplayer-kfjXjCEw" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
+        <div id="aplayer-xqOMnZgn" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
 			  <script>
 				  var options = {"narrow":false,"autoplay":false,"showlrc":3,"mode":"random","music":[{"title":"你为何还未睡","author":"邓思朗","url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405031119274.mp3","pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405031120468.jpg","lrc":"/2024/05/03/music/18_%E4%BD%A0%E4%B8%BA%E4%BD%95%E8%BF%98%E6%9C%AA%E7%9D%A1-%E9%82%93%E6%80%9D%E6%9C%97.lrc"},{"title":"碧玉","author":"王菀之","url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405021111945.mp3","pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/碧玉-专辑封面.png","lrc":"/2024/05/03/music/biyu.lrc"}]};
-				  options.element = document.getElementById("aplayer-kfjXjCEw");
+				  options.element = document.getElementById("aplayer-xqOMnZgn");
 				  var ap = new APlayer(options);
 			    window.aplayers || (window.aplayers = []);
 				  window.aplayers.push(ap);
 			  </script>
 ]]></content>
+      <categories>
+        <category>测试页面</category>
+      </categories>
+      <tags>
+        <tag>测试</tag>
+      </tags>
   </entry>
   <entry>
     <title>测试一下</title>
@@ -120,8 +132,11 @@
 <h2 id="6-aplayer-音乐播放插件测试"><a href="#6-aplayer-音乐播放插件测试" class="headerlink" title="6 aplayer 音乐播放插件测试"></a>6 aplayer 音乐播放插件测试</h2><p>静态网页形式：可以的话想办法把本地歌单搞到网易云</p>
 <p><a href="https://music.zhheo.com/?id=7293920935&server=netease">HeoMusic - 用音乐感染人心 (zhheo.com)</a></p>
 ]]></content>
+      <categories>
+        <category>测试页面</category>
+      </categories>
       <tags>
-        <tag>编程技术</tag>
+        <tag>测试</tag>
       </tags>
   </entry>
 </search>

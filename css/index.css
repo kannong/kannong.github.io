@@ -2858,11 +2858,12 @@ input::placeholder {
   -ms-transform: rotate(-1deg);
   transform: rotate(-1deg);
   -webkit-overflow-scrolling: touch;
-  background: var(--anzhiyu-background);
+  background: url("https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405091244537.jpg");
   background-attachment: local;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  filter: blur(2px);
 }
 h1,
 h2,
@@ -3277,6 +3278,15 @@ figure.highlight pre .tag .attr,
 figure.highlight pre .javascript .function {
   color: #7c4dff;
 }
+#article-container figure.highlight .line:before {
+  display: inline-block;
+  padding: 0 6px 0 0;
+  min-width: 30px;
+  color: var(--hlnumber-color);
+  content: counter(line);
+  counter-increment: line;
+  text-align: left;
+}
 #article-container figure.highlight .line.marked {
   background-color: rgba(128,203,196,0.251);
 }
@@ -3314,6 +3324,8 @@ figure.highlight pre .javascript .function {
   border: var(--style-border-always);
   color: var(--hl-color);
   line-height: 1.6;
+  counter-reset: line;
+  white-space: pre-wrap;
 }
 #article-container pre,
 #article-container code {
@@ -3459,6 +3471,48 @@ figure.highlight pre .javascript .function {
 }
 #article-container .gist table td {
   border: none;
+}
+#article-container figure.highlight {
+  margin: 0 0 24px;
+  border-radius: 7px;
+  -webkit-box-shadow: 0 5px 10px 0 rgba(144,164,174,0.4);
+  box-shadow: 0 5px 10px 0 rgba(144,164,174,0.4);
+  -webkit-transform: translateZ(0);
+}
+#article-container figure.highlight .highlight-tools:after {
+  position: absolute;
+  left: 14px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: #fc625d;
+  -webkit-box-shadow: 20px 0 #fdbc40, 40px 0 #35cd4b;
+  box-shadow: 20px 0 #fdbc40, 40px 0 #35cd4b;
+  content: ' ';
+}
+#article-container figure.highlight .highlight-tools .expand {
+  right: 0;
+}
+#article-container figure.highlight .highlight-tools .expand.closed {
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  -ms-transition: all 0.3s;
+  transition: all 0.3s;
+  -webkit-transform: rotate(90deg) !important;
+  -moz-transform: rotate(90deg) !important;
+  -o-transform: rotate(90deg) !important;
+  -ms-transform: rotate(90deg) !important;
+  transform: rotate(90deg) !important;
+}
+#article-container figure.highlight .highlight-tools .expand ~ .copy-notice {
+  right: 3.45em;
+}
+#article-container figure.highlight .highlight-tools .expand ~ .copy-button {
+  right: 2.1em;
+}
+#article-container figure.highlight .highlight-tools .code-lang {
+  left: 75px;
 }
 #article-container .code-expand-btn {
   position: absolute;
@@ -11124,7 +11178,7 @@ h1.page-title + .tag-cloud-list {
 #page-header.not-top-img {
   margin-bottom: 10px;
   height: 60px;
-  background: 0;
+  background: rgba(255,255,255,0.7);
 }
 #page-header.not-top-img #nav #menus .menus_item:hover > a {
   background: var(--anzhiyu-main);
@@ -27347,3 +27401,100 @@ div#runtime {
   transform: translateY(-100%);
 }
 
+blockquote.song {
+  color: #404040;
+  -webkit-font-smoothing: antialiased;
+  font-feature-settings: "liga" 1, "pnum" 1, "kern" 1;
+  text-rendering: optimizeLegibility;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  font-family: Optima-Regular, "Source Han Serif SC", Manuale, "Consolas", "Noto Serif CJK SC", STFangsong, FangSong, FangSong_GB2312, "Songti SC", STSong, serif, PingFangSC-Light, PingFangTC-Light, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol !important;
+  font-size: 100% !important;
+  overflow-wrap: break-word;
+  word-break: keep-all;
+  line-height: 1.778;
+  font-weight: 300;
+  letter-spacing: 1px;
+  margin-left: auto;
+  margin-right: auto;
+  z-index: -1;
+  margin-top: 1.35em;
+  margin-bottom: 1.35em;
+  background: #fafafd;
+  padding-top: 16px;
+  border-left: 0;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: box;
+  display: flex;
+  -webkit-box-pack: end;
+  -moz-box-pack: end;
+  -o-box-pack: end;
+  -ms-flex-pack: end;
+  -webkit-justify-content: flex-end;
+  justify-content: flex-end;
+  padding-bottom: 0;
+  border-left: solid 3px #5f6867;
+}
+blockquote.song p {
+  font-size: 22px;
+  overflow-wrap: break-word;
+  word-break: break-word;
+  font-weight: 300;
+  letter-spacing: 1px;
+  margin-left: auto;
+  margin-right: auto;
+  margin: 0;
+  padding: 1em;
+  color: #888;
+  line-height: 1.6 !important;
+  text-align: start;
+  writing-mode: vertical-rl;
+  -webkit-writing-mode: vertical-rl;
+  -moz-writing-mode: vertical-rl;
+  -o-writing-mode: vertical-rl;
+  -ms-writing-mode: tb-rl;
+  _writing-mode: tb-rl;
+  min-height: 380px;
+  height: auto;
+  overflow: auto;
+}
+/* 古诗文标题 */
+blockquote.song tt {
+  font-family: Optima-Regular, "Source Han Serif SC", Manuale, "Consolas", "Noto Serif CJK SC", STFangsong, FangSong, FangSong_GB2312, "Songti SC", STSong, serif, PingFangSC-Light, PingFangTC-Light, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol !important;
+  font-size: 24px;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  padding-right: 0.2em;
+  font-weight: 450;
+  border-top: 1px solid #404040;
+  border-bottom: 1px solid #404040;
+}
+/* 作者 */
+blockquote.song at {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: box;
+  display: flex;
+  color: #919191;
+  padding-top: 4em;
+  padding-bottom: 1.5em;
+}
+/* 滚动条 */
+::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+  background-color: #f5f5f5;
+}
+::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+  background-color: #f5f5f5;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #404040;
+}
