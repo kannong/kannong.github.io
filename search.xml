@@ -46,10 +46,10 @@
 
 <p> 创建一列自己的歌单：</p>
 
-        <div id="aplayer-mYcBerTq" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
+        <div id="aplayer-PdoJedEr" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
 			  <script>
 				  var options = {"narrow":false,"autoplay":false,"showlrc":3,"mode":"random","music":[{"title":"你为何还未睡","author":"邓思朗","url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405031119274.mp3","pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405031120468.jpg","lrc":"/2024/05/03/music/18_%E4%BD%A0%E4%B8%BA%E4%BD%95%E8%BF%98%E6%9C%AA%E7%9D%A1-%E9%82%93%E6%80%9D%E6%9C%97.lrc"},{"title":"碧玉","author":"王菀之","url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405021111945.mp3","pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/碧玉-专辑封面.png","lrc":"/2024/05/03/music/biyu.lrc"}]};
-				  options.element = document.getElementById("aplayer-mYcBerTq");
+				  options.element = document.getElementById("aplayer-PdoJedEr");
 				  var ap = new APlayer(options);
 			    window.aplayers || (window.aplayers = []);
 				  window.aplayers.push(ap);
