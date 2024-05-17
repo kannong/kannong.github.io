@@ -46,14 +46,131 @@
 
 <p> 创建一列自己的歌单：</p>
 
-        <div id="aplayer-ToovexKU" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
+        <div id="aplayer-QZWaMBZE" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
 			  <script>
 				  var options = {"narrow":false,"autoplay":false,"showlrc":3,"mode":"random","music":[{"title":"你为何还未睡","author":"邓思朗","url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405031119274.mp3","pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405031120468.jpg","lrc":"/2024/05/03/music/18_%E4%BD%A0%E4%B8%BA%E4%BD%95%E8%BF%98%E6%9C%AA%E7%9D%A1-%E9%82%93%E6%80%9D%E6%9C%97.lrc"},{"title":"碧玉","author":"王菀之","url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405021111945.mp3","pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/碧玉-专辑封面.png","lrc":"/2024/05/03/music/biyu.lrc"}]};
-				  options.element = document.getElementById("aplayer-ToovexKU");
+				  options.element = document.getElementById("aplayer-QZWaMBZE");
 				  var ap = new APlayer(options);
 			    window.aplayers || (window.aplayers = []);
 				  window.aplayers.push(ap);
 			  </script>
+]]></content>
+      <categories>
+        <category>测试页面</category>
+      </categories>
+      <tags>
+        <tag>测试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>music_test</title>
+    <url>/2024/05/03/music_test/</url>
+    <content><![CDATA[<p><font color=#0c74d6 size=3 face="黑体"><strong>这是歌单介绍，如果不需要刻意留空</strong></font></p>
+<p>听歌链接：<a href="https://musictest.kanxiyewords.cn/">music_test</a></p>
+<p>调用网易云歌单：</p>
+
+    <div id="aplayer-EPOElBWf" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="697054881" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
+    ></div>
+
+
+
+<p> 创建一列自己的歌单：</p>
+
+        <div id="aplayer-EBPiRegz" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
+			  <script>
+				  var options = {"narrow":false,"autoplay":true,"showlrc":1,"mode":"random","music":[{"title":"你为何还未睡","author":"邓思朗","url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405031119274.mp3","pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405031120468.jpg","lrc":"[[00:00.00]APlayer\n[00:04.01]is\n[00:08.02]amazing"},{"title":"碧玉","author":"王菀之","url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405021111945.mp3","pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/碧玉-专辑封面.png","lrc":"[00:38.62]血脉飞 然后坐夜机\n[00:42.02]然后企着等台上发亮\n[00:47.69]计划中 无限震撼中\n[00:51.36]期待最值得期待偶像\n[00:57.10]奈何天都为我太紧张\n[01:02.13]将兴奋眼泪聚成暴雨\n[01:06.90]换来碧玉亮相似飞霜\n[01:12.32]逼心脏暂停一样\n[01:20.89]绝对的渴望 大概会失望\n[01:31.77]一起披风戴雨亦是场盛况\n[01:36.17]可跟你快乐地狼忙\n[01:42.26]未满足愿望 但永世不忘\n[01:52.61]这追星之旅发现原来是你\n[01:57.69]饰演我偶像又何妨\n[02:12.16]我梦想 沿路也幻想\n[02:15.62]寻觅了廿载 狂热对象\n[02:21.04]雨滴中 有着你渡过\n[02:24.56]先知有幸福伴我高唱\n[02:30.23]就如漆黑漫舞过风霜\n[02:35.71]天总有礼物 另行奉上\n[02:40.10]就如分担亦会变分享\n[02:45.73]金碧玉露藏心上\n[03:10.38]绝对的渴望 大概会失望\n[03:20.47]一起披风戴雨亦是场盛况\n[03:25.21]可跟你快乐地狼忙\n[03:31.07]未满足愿望 但永世不忘\n[03:41.38]这追星之旅发现原来是你\n[03:46.36]饰演我偶像又何妨\n[03:50.33]温馨中的彷徨\n[03:55.87]碧玉的乌托邦于心里平和像圣堂\n[04:01.25]辛苦得多难忘\n[04:03.81]无谕碰撞\n[04:09.27]无论跌宕\n"}]};
+				  options.element = document.getElementById("aplayer-EBPiRegz");
+				  var ap = new APlayer(options);
+			    window.aplayers || (window.aplayers = []);
+				  window.aplayers.push(ap);
+			  </script>
+
+
+
+
+        <div id="aplayer-UVwZszBM" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
+			  <script>
+				  var options = {"narrow":false,"autoplay":false,"showlrc":3,"mode":"random","music":[{"title":"你为何还未睡","author":"邓思朗","url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405031119274.mp3","pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405031120468.jpg","lrc":"/all_lrc/niweihe.lrc"},{"title":"碧玉","author":"王菀之","url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405021111945.mp3","pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/碧玉-专辑封面.png","lrc":"/all_lrc/biyu.lrc"}]};
+				  options.element = document.getElementById("aplayer-UVwZszBM");
+				  var ap = new APlayer(options);
+			    window.aplayers || (window.aplayers = []);
+				  window.aplayers.push(ap);
+			  </script>
+
+
+
+<p>meeting-js创建单曲</p>
+<p>html</p>
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">meting-js</span></span></span><br><span class="line"><span class="tag">	<span class="attr">name</span>=<span class="string">&quot;你为何还未睡&quot;</span></span></span><br><span class="line"><span class="tag">	<span class="attr">artist</span>=<span class="string">&quot;邓思朗&quot;</span></span></span><br><span class="line"><span class="tag">	<span class="attr">url</span>=<span class="string">&quot;https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405031119274.mp3&quot;</span></span></span><br><span class="line"><span class="tag">	<span class="attr">cover</span>=<span class="string">&quot;https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405031120468.jpg&quot;</span></span></span><br><span class="line"><span class="tag">	<span class="attr">fixed</span>=<span class="string">&quot;true&quot;</span>&gt;</span></span><br><span class="line">	<span class="tag">&lt;<span class="name">pre</span> <span class="attr">hidden</span>&gt;</span></span><br><span class="line">	    [00:00.00]APlayer meetingjs</span><br><span class="line">	    [00:04.01]is</span><br><span class="line">	    [00:08.02]amazing</span><br><span class="line">	<span class="tag">&lt;/<span class="name">pre</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">meting-js</span>&gt;</span></span><br></pre></td></tr></table></figure>
+
+
+
+<p>标签文本</p>
+
+    <div id="aplayer-jYXuHiFG" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="108468" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#5CB85C"
+    ></div>
+
+
+
+<p>本地音乐：</p>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">&#123;% aplayer &quot;碧玉&quot; &quot;王菀之&quot; &quot;https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405021111945.mp3&quot; &quot;https://kannong.oss-cn-shenzhen.aliyuncs.com/img/碧玉-专辑封面.png&quot; %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% aplayer &quot;你为何还未睡&quot; &quot;邓思朗&quot; &quot;https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405031119274.mp3&quot; &quot;https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405031120468.jpg&quot;  %&#125;</span><br></pre></td></tr></table></figure>
+
+
+
+<p>插入歌词：</p>
+<div id="aplayer-dLnCVnxa" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+				<pre class="aplayer-lrc-content">[00:38.62]血脉飞 然后坐夜机
+[00:42.02]然后企着等台上发亮
+[00:47.69]计划中 无限震撼中
+[00:51.36]期待最值得期待偶像
+[00:57.10]奈何天都为我太紧张
+[01:02.13]将兴奋眼泪聚成暴雨
+[01:06.90]换来碧玉亮相似飞霜
+[01:12.32]逼心脏暂停一样
+[01:20.89]绝对的渴望 大概会失望
+[01:31.77]一起披风戴雨亦是场盛况
+[01:36.17]可跟你快乐地狼忙
+[01:42.26]未满足愿望 但永世不忘
+[01:52.61]这追星之旅发现原来是你
+[01:57.69]饰演我偶像又何妨
+[02:12.16]我梦想 沿路也幻想
+[02:15.62]寻觅了廿载 狂热对象
+[02:21.04]雨滴中 有着你渡过
+[02:24.56]先知有幸福伴我高唱
+[02:30.23]就如漆黑漫舞过风霜
+[02:35.71]天总有礼物 另行奉上
+[02:40.10]就如分担亦会变分享
+[02:45.73]金碧玉露藏心上
+[03:10.38]绝对的渴望 大概会失望
+[03:20.47]一起披风戴雨亦是场盛况
+[03:25.21]可跟你快乐地狼忙
+[03:31.07]未满足愿望 但永世不忘
+[03:41.38]这追星之旅发现原来是你
+[03:46.36]饰演我偶像又何妨
+[03:50.33]温馨中的彷徨
+[03:55.87]碧玉的乌托邦于心里平和像圣堂
+[04:01.25]辛苦得多难忘
+[04:03.81]无谕碰撞
+[04:09.27]无论跌宕</pre>
+			</div>
+			<script>
+				var ap = new APlayer({
+					element: document.getElementById("aplayer-dLnCVnxa"),
+					narrow: false,
+					autoplay: false,
+					showlrc: 2,
+					music: {
+						title: "碧玉",
+						author: "王菀之",
+						url: "https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405021111945.mp3",
+						pic: "",
+					}
+				});
+				window.aplayers || (window.aplayers = []);
+				window.aplayers.push(ap);
+			</script>
 ]]></content>
       <categories>
         <category>测试页面</category>
@@ -70,16 +187,19 @@
 </blockquote>
  <span id="more"></span>
 
+<blockquote>
+<p><strong>本站声明：本网站遵循<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0协议</a>，不具有传输与存储功能，只用于非营利性分享，如有侵权，请通过主页B站或者微博联系本人进行删除. PS：整理不易，转载请注明来自<a href="https://kannong.kanxiyewords.cn/">kannong_xi</a>.</strong></p>
+</blockquote>
 <h2 id="汇合"><a href="#汇合" class="headerlink" title="汇合"></a>汇合</h2><p><a href="">夕爷&amp;林家谦的作品集在线听歌链接（滚动歌词界面）</a></p>
 <p><a href="">百度网盘资源转存链接</a></p>
 <h2 id="歌曲"><a href="#歌曲" class="headerlink" title="歌曲"></a>歌曲</h2><h3 id="01-拼命无恙-林家谦"><a href="#01-拼命无恙-林家谦" class="headerlink" title="01 拼命无恙   林家谦"></a>01 拼命无恙   林家谦</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-lJkBjFaP" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-TsNctfpo" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-lJkBjFaP"),
+            element: document.getElementById("aplayer-TsNctfpo"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -173,12 +293,12 @@
 
 <h3 id="02-某种老朋友-林家谦"><a href="#02-某种老朋友-林家谦" class="headerlink" title="02 某种老朋友   林家谦"></a>02 某种老朋友   林家谦</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-zEMsoPiC" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-YNArrtoG" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-zEMsoPiC"),
+            element: document.getElementById("aplayer-YNArrtoG"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -287,12 +407,12 @@
 
 <h3 id="03-怪我只敢做好人-林家谦"><a href="#03-怪我只敢做好人-林家谦" class="headerlink" title="03 怪我只敢做好人   林家谦"></a>03 怪我只敢做好人   林家谦</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-boQfqqSf" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-dXQHqNfA" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-boQfqqSf"),
+            element: document.getElementById("aplayer-dXQHqNfA"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -379,123 +499,6 @@
       </categories>
       <tags>
         <tag>TerenceLam</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>music_test</title>
-    <url>/2024/05/03/music_test/</url>
-    <content><![CDATA[<p><font color=#0c74d6 size=3 face="黑体"><strong>这是歌单介绍，如果不需要刻意留空</strong></font></p>
-<p>听歌链接：<a href="https://musictest.kanxiyewords.cn/">music_test</a></p>
-<p>调用网易云歌单：</p>
-
-    <div id="aplayer-fUaankkt" class="aplayer aplayer-tag-marker meting-tag-marker"
-         data-id="697054881" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
-    ></div>
-
-
-
-<p> 创建一列自己的歌单：</p>
-
-        <div id="aplayer-GwCbaHiz" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
-			  <script>
-				  var options = {"narrow":false,"autoplay":true,"showlrc":1,"mode":"random","music":[{"title":"你为何还未睡","author":"邓思朗","url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405031119274.mp3","pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405031120468.jpg","lrc":"[[00:00.00]APlayer\n[00:04.01]is\n[00:08.02]amazing"},{"title":"碧玉","author":"王菀之","url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405021111945.mp3","pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/碧玉-专辑封面.png","lrc":"[00:38.62]血脉飞 然后坐夜机\n[00:42.02]然后企着等台上发亮\n[00:47.69]计划中 无限震撼中\n[00:51.36]期待最值得期待偶像\n[00:57.10]奈何天都为我太紧张\n[01:02.13]将兴奋眼泪聚成暴雨\n[01:06.90]换来碧玉亮相似飞霜\n[01:12.32]逼心脏暂停一样\n[01:20.89]绝对的渴望 大概会失望\n[01:31.77]一起披风戴雨亦是场盛况\n[01:36.17]可跟你快乐地狼忙\n[01:42.26]未满足愿望 但永世不忘\n[01:52.61]这追星之旅发现原来是你\n[01:57.69]饰演我偶像又何妨\n[02:12.16]我梦想 沿路也幻想\n[02:15.62]寻觅了廿载 狂热对象\n[02:21.04]雨滴中 有着你渡过\n[02:24.56]先知有幸福伴我高唱\n[02:30.23]就如漆黑漫舞过风霜\n[02:35.71]天总有礼物 另行奉上\n[02:40.10]就如分担亦会变分享\n[02:45.73]金碧玉露藏心上\n[03:10.38]绝对的渴望 大概会失望\n[03:20.47]一起披风戴雨亦是场盛况\n[03:25.21]可跟你快乐地狼忙\n[03:31.07]未满足愿望 但永世不忘\n[03:41.38]这追星之旅发现原来是你\n[03:46.36]饰演我偶像又何妨\n[03:50.33]温馨中的彷徨\n[03:55.87]碧玉的乌托邦于心里平和像圣堂\n[04:01.25]辛苦得多难忘\n[04:03.81]无谕碰撞\n[04:09.27]无论跌宕\n"}]};
-				  options.element = document.getElementById("aplayer-GwCbaHiz");
-				  var ap = new APlayer(options);
-			    window.aplayers || (window.aplayers = []);
-				  window.aplayers.push(ap);
-			  </script>
-
-
-
-
-        <div id="aplayer-ChEQGkJx" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
-			  <script>
-				  var options = {"narrow":false,"autoplay":false,"showlrc":3,"mode":"random","music":[{"title":"你为何还未睡","author":"邓思朗","url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405031119274.mp3","pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405031120468.jpg","lrc":"/all_lrc/niweihe.lrc"},{"title":"碧玉","author":"王菀之","url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405021111945.mp3","pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/碧玉-专辑封面.png","lrc":"/all_lrc/biyu.lrc"}]};
-				  options.element = document.getElementById("aplayer-ChEQGkJx");
-				  var ap = new APlayer(options);
-			    window.aplayers || (window.aplayers = []);
-				  window.aplayers.push(ap);
-			  </script>
-
-
-
-<p>meeting-js创建单曲</p>
-<p>html</p>
-<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">meting-js</span></span></span><br><span class="line"><span class="tag">	<span class="attr">name</span>=<span class="string">&quot;你为何还未睡&quot;</span></span></span><br><span class="line"><span class="tag">	<span class="attr">artist</span>=<span class="string">&quot;邓思朗&quot;</span></span></span><br><span class="line"><span class="tag">	<span class="attr">url</span>=<span class="string">&quot;https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405031119274.mp3&quot;</span></span></span><br><span class="line"><span class="tag">	<span class="attr">cover</span>=<span class="string">&quot;https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405031120468.jpg&quot;</span></span></span><br><span class="line"><span class="tag">	<span class="attr">fixed</span>=<span class="string">&quot;true&quot;</span>&gt;</span></span><br><span class="line">	<span class="tag">&lt;<span class="name">pre</span> <span class="attr">hidden</span>&gt;</span></span><br><span class="line">	    [00:00.00]APlayer meetingjs</span><br><span class="line">	    [00:04.01]is</span><br><span class="line">	    [00:08.02]amazing</span><br><span class="line">	<span class="tag">&lt;/<span class="name">pre</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">meting-js</span>&gt;</span></span><br></pre></td></tr></table></figure>
-
-
-
-<p>标签文本</p>
-
-    <div id="aplayer-JWBEMbdj" class="aplayer aplayer-tag-marker meting-tag-marker"
-         data-id="108468" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#5CB85C"
-    ></div>
-
-
-
-<p>本地音乐：</p>
-<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">&#123;% aplayer &quot;碧玉&quot; &quot;王菀之&quot; &quot;https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405021111945.mp3&quot; &quot;https://kannong.oss-cn-shenzhen.aliyuncs.com/img/碧玉-专辑封面.png&quot; %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% aplayer &quot;你为何还未睡&quot; &quot;邓思朗&quot; &quot;https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405031119274.mp3&quot; &quot;https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405031120468.jpg&quot;  %&#125;</span><br></pre></td></tr></table></figure>
-
-
-
-<p>插入歌词：</p>
-<div id="aplayer-ccSpNdGa" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
-				<pre class="aplayer-lrc-content">[00:38.62]血脉飞 然后坐夜机
-[00:42.02]然后企着等台上发亮
-[00:47.69]计划中 无限震撼中
-[00:51.36]期待最值得期待偶像
-[00:57.10]奈何天都为我太紧张
-[01:02.13]将兴奋眼泪聚成暴雨
-[01:06.90]换来碧玉亮相似飞霜
-[01:12.32]逼心脏暂停一样
-[01:20.89]绝对的渴望 大概会失望
-[01:31.77]一起披风戴雨亦是场盛况
-[01:36.17]可跟你快乐地狼忙
-[01:42.26]未满足愿望 但永世不忘
-[01:52.61]这追星之旅发现原来是你
-[01:57.69]饰演我偶像又何妨
-[02:12.16]我梦想 沿路也幻想
-[02:15.62]寻觅了廿载 狂热对象
-[02:21.04]雨滴中 有着你渡过
-[02:24.56]先知有幸福伴我高唱
-[02:30.23]就如漆黑漫舞过风霜
-[02:35.71]天总有礼物 另行奉上
-[02:40.10]就如分担亦会变分享
-[02:45.73]金碧玉露藏心上
-[03:10.38]绝对的渴望 大概会失望
-[03:20.47]一起披风戴雨亦是场盛况
-[03:25.21]可跟你快乐地狼忙
-[03:31.07]未满足愿望 但永世不忘
-[03:41.38]这追星之旅发现原来是你
-[03:46.36]饰演我偶像又何妨
-[03:50.33]温馨中的彷徨
-[03:55.87]碧玉的乌托邦于心里平和像圣堂
-[04:01.25]辛苦得多难忘
-[04:03.81]无谕碰撞
-[04:09.27]无论跌宕</pre>
-			</div>
-			<script>
-				var ap = new APlayer({
-					element: document.getElementById("aplayer-ccSpNdGa"),
-					narrow: false,
-					autoplay: false,
-					showlrc: 2,
-					music: {
-						title: "碧玉",
-						author: "王菀之",
-						url: "https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405021111945.mp3",
-						pic: "",
-					}
-				});
-				window.aplayers || (window.aplayers = []);
-				window.aplayers.push(ap);
-			</script>
-]]></content>
-      <categories>
-        <category>测试页面</category>
-      </categories>
-      <tags>
-        <tag>测试</tag>
       </tags>
   </entry>
   <entry>
@@ -589,18 +592,21 @@
 </blockquote>
  <span id="more"></span>
 
+<blockquote>
+<p><strong>本站声明：本网站遵循<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0协议</a>，不具有传输与存储功能，只用于非营利性分享，如有侵权，请通过主页B站或者微博联系本人进行删除. PS：整理不易，转载请注明来自<a href="https://kannong.kanxiyewords.cn/">kannong_xi</a>.</strong></p>
+</blockquote>
 <h2 id="一、汇总"><a href="#一、汇总" class="headerlink" title="一、汇总"></a>一、汇总</h2><p><a href="https://music-2020s.kanxiyewords.cn/">夕爷2020年代作品集在线听歌链接（滚动歌词界面）</a></p>
 <p><a href="https://pan.baidu.com/s/1wy_xhzq0Em1Gn6_m7GdfKg?pwd=sfvg">百度网盘资源转存链接</a></p>
 <p><strong>B站链接（观看所有高清视频） PS：放在B站是因为可以搞字幕，有的MV导出是没有字幕的</strong></p>
 <p><a href="https://space.bilibili.com/361731143/channel/collectiondetail?sid=3010026">夕爷2024年作品所有MV</a></p>
 <h2 id="二、歌曲（共6首）"><a href="#二、歌曲（共6首）" class="headerlink" title="二、歌曲（共6首）"></a>二、歌曲（共6首）</h2><h3 id="01-自己爱情自己爱-cfy"><a href="#01-自己爱情自己爱-cfy" class="headerlink" title="01 自己爱情自己爱   cfy"></a>01 自己爱情自己爱   cfy</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-uTnqWvRB" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-XVzwWlhR" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-uTnqWvRB"),
+            element: document.getElementById("aplayer-XVzwWlhR"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -700,12 +706,12 @@
 </tbody></table>
 <h3 id="02-拯救我自己-陈慧敏"><a href="#02-拯救我自己-陈慧敏" class="headerlink" title="02 拯救我自己   陈慧敏"></a>02 拯救我自己   陈慧敏</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-AAvowADU" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-AJzfmmaW" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-AAvowADU"),
+            element: document.getElementById("aplayer-AJzfmmaW"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -800,12 +806,12 @@
 </tbody></table>
 <h3 id="03-Control-Freak-小尘埃"><a href="#03-Control-Freak-小尘埃" class="headerlink" title="03 Control Freak   小尘埃"></a>03 Control Freak   小尘埃</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-sIyphXVP" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-hQAwJMnC" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-sIyphXVP"),
+            element: document.getElementById("aplayer-hQAwJMnC"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -895,12 +901,12 @@
 </tbody></table>
 <h3 id="04-普通人-刘威煌"><a href="#04-普通人-刘威煌" class="headerlink" title="04  普通人   刘威煌"></a>04  普通人   刘威煌</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-XbigQFUf" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-dwxcFgFn" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-XbigQFUf"),
+            element: document.getElementById("aplayer-dwxcFgFn"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1025,12 +1031,12 @@
 </tbody></table>
 <h3 id="05-Why-You-AGA（嘻嘻小号）"><a href="#05-Why-You-AGA（嘻嘻小号）" class="headerlink" title="05  Why You   AGA（嘻嘻小号）"></a>05  Why You   AGA（嘻嘻小号）</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-pCIBDmWC" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-MRQJFPSA" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-pCIBDmWC"),
+            element: document.getElementById("aplayer-MRQJFPSA"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1110,12 +1116,12 @@
 </tbody></table>
 <h3 id="06-百妖夜行的修行-JACE"><a href="#06-百妖夜行的修行-JACE" class="headerlink" title="06  百妖夜行的修行   JACE"></a>06  百妖夜行的修行   JACE</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-kXogiKIq" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-GbRyVVMP" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-kXogiKIq"),
+            element: document.getElementById("aplayer-GbRyVVMP"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1247,6 +1253,9 @@
 </blockquote>
  <span id="more"></span>
 
+<blockquote>
+<p><strong>本站声明：本网站遵循<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0协议</a>，不具有传输与存储功能，只用于非营利性分享，如有侵权，请通过主页B站或者微博联系本人进行删除. PS：整理不易，转载请注明来自<a href="https://kannong.kanxiyewords.cn/">kannong_xi</a>.</strong></p>
+</blockquote>
 <h1 id="汇总"><a href="#汇总" class="headerlink" title="汇总"></a>汇总</h1><p><a href="https://music-2020s.kanxiyewords.cn/">夕爷2020年代作品集在线听歌链接（滚动歌词界面）</a></p>
 <p><a href="https://pan.baidu.com/s/1f6fGkqPAVXwuu2FWWwCyPA?pwd=crsn">百度网盘资源转存链接</a></p>
 <p><strong>以下为B站链接（观看所有高清视频） PS：放在B站是因为可以搞字幕，有的MV导出是没有字幕的</strong></p>
@@ -1457,12 +1466,12 @@
 </tbody></table>
 <h1 id="2020年（12-10）"><a href="#2020年（12-10）" class="headerlink" title="2020年（12+10）"></a>2020年（12+10）</h1><h2 id="歌曲集1（共12首）"><a href="#歌曲集1（共12首）" class="headerlink" title="歌曲集1（共12首）"></a>歌曲集1（共12首）</h2><h3 id="01-幻爱-小尘埃"><a href="#01-幻爱-小尘埃" class="headerlink" title="01 幻爱   小尘埃"></a>01 幻爱   小尘埃</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-kZjggIFh" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-BZdBGDDJ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-kZjggIFh"),
+            element: document.getElementById("aplayer-BZdBGDDJ"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1542,12 +1551,12 @@
 </tbody></table>
 <h3 id="02-幻爱（国语版）-小尘埃"><a href="#02-幻爱（国语版）-小尘埃" class="headerlink" title="02 幻爱（国语版）   小尘埃"></a>02 幻爱（国语版）   小尘埃</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-oRxWoCoQ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-wnxlQRtt" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-oRxWoCoQ"),
+            element: document.getElementById("aplayer-wnxlQRtt"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1640,12 +1649,12 @@
 </tbody></table>
 <h3 id="03-碧玉-王菀之"><a href="#03-碧玉-王菀之" class="headerlink" title="03 碧玉   王菀之"></a>03 碧玉   王菀之</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-phQmtcKe" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-FFOdggwG" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-phQmtcKe"),
+            element: document.getElementById("aplayer-FFOdggwG"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1729,12 +1738,12 @@
 </tbody></table>
 <h3 id="04-无名指的勇气-林欣彤"><a href="#04-无名指的勇气-林欣彤" class="headerlink" title="04 无名指的勇气   林欣彤"></a>04 无名指的勇气   林欣彤</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-ryYsNakz" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-PPWIbriq" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-ryYsNakz"),
+            element: document.getElementById("aplayer-PPWIbriq"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1826,12 +1835,12 @@
 </tbody></table>
 <h3 id="05-拼命无恙-林家谦"><a href="#05-拼命无恙-林家谦" class="headerlink" title="05 拼命无恙   林家谦"></a>05 拼命无恙   林家谦</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-mAyIHwLe" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-qwXjBKmh" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-mAyIHwLe"),
+            element: document.getElementById("aplayer-qwXjBKmh"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1919,12 +1928,12 @@
 </tbody></table>
 <h3 id="06-自由之夏-黄耀明"><a href="#06-自由之夏-黄耀明" class="headerlink" title="06 自由之夏   黄耀明"></a>06 自由之夏   黄耀明</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-bBsMEdGp" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-zCRBLBoM" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-bBsMEdGp"),
+            element: document.getElementById("aplayer-zCRBLBoM"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1999,12 +2008,12 @@
 </tbody></table>
 <h3 id="07-恨-许廷鏗"><a href="#07-恨-许廷鏗" class="headerlink" title="07 恨   许廷鏗"></a>07 恨   许廷鏗</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-oWaRYxac" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-QWtAhMuF" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-oWaRYxac"),
+            element: document.getElementById("aplayer-QWtAhMuF"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -2090,12 +2099,12 @@
 </tbody></table>
 <h3 id="08-慌-许廷鏗"><a href="#08-慌-许廷鏗" class="headerlink" title="08 慌   许廷鏗"></a>08 慌   许廷鏗</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-xYeaxVlb" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-TVQRNwcB" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-xYeaxVlb"),
+            element: document.getElementById("aplayer-TVQRNwcB"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -2178,12 +2187,12 @@
 </tbody></table>
 <h3 id="09-贱-许廷鏗"><a href="#09-贱-许廷鏗" class="headerlink" title="09 贱   许廷鏗"></a>09 贱   许廷鏗</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-uyyfOzoP" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-AopqrtkC" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-uyyfOzoP"),
+            element: document.getElementById("aplayer-AopqrtkC"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -2277,12 +2286,12 @@
 </tbody></table>
 <h3 id="10-谎-许廷鏗"><a href="#10-谎-许廷鏗" class="headerlink" title="10 谎   许廷鏗"></a>10 谎   许廷鏗</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-FIbxKzEz" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-SVLNuhoV" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-FIbxKzEz"),
+            element: document.getElementById("aplayer-SVLNuhoV"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -2375,12 +2384,12 @@
 </tbody></table>
 <h3 id="11-亲密距离-刘美君"><a href="#11-亲密距离-刘美君" class="headerlink" title="11 亲密距离   刘美君"></a>11 亲密距离   刘美君</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-wFmKZJlk" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-GqGQSfXL" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-wFmKZJlk"),
+            element: document.getElementById("aplayer-GqGQSfXL"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -2475,12 +2484,12 @@
 </tbody></table>
 <h3 id="12-只想死于你身边-谢安琪"><a href="#12-只想死于你身边-谢安琪" class="headerlink" title="12 只想死于你身边   谢安琪"></a>12 只想死于你身边   谢安琪</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-derJjJCz" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-micSxhUv" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-derJjJCz"),
+            element: document.getElementById("aplayer-micSxhUv"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -2572,12 +2581,12 @@
 </blockquote>
 <h3 id="13-敢-李幸倪"><a href="#13-敢-李幸倪" class="headerlink" title="13 敢   李幸倪"></a>13 敢   李幸倪</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-vmVRnfFu" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-zmymXIrl" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-vmVRnfFu"),
+            element: document.getElementById("aplayer-zmymXIrl"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -2671,12 +2680,12 @@
 </tbody></table>
 <h3 id="14-开错灯-李幸倪"><a href="#14-开错灯-李幸倪" class="headerlink" title="14 开错灯   李幸倪"></a>14 开错灯   李幸倪</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-NwtnFvFk" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-dRonvmFf" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-NwtnFvFk"),
+            element: document.getElementById("aplayer-dRonvmFf"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -2801,12 +2810,12 @@
 </tbody></table>
 <h3 id="15-开灯-熄灯-熄灯版-李幸倪"><a href="#15-开灯-熄灯-熄灯版-李幸倪" class="headerlink" title="15 开灯 . 熄灯 (熄灯版)   李幸倪"></a>15 开灯 . 熄灯 (熄灯版)   李幸倪</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-GuWsarpr" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-WgkSUowM" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-GuWsarpr"),
+            element: document.getElementById("aplayer-WgkSUowM"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -2900,12 +2909,12 @@
 </tbody></table>
 <h3 id="16-开灯-熄灯-开灯版-李幸倪"><a href="#16-开灯-熄灯-开灯版-李幸倪" class="headerlink" title="16 开灯 . 熄灯 (开灯版)   李幸倪"></a>16 开灯 . 熄灯 (开灯版)   李幸倪</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-dnxGutvY" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-wapORClr" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-dnxGutvY"),
+            element: document.getElementById("aplayer-wapORClr"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -2996,12 +3005,12 @@
 </tbody></table>
 <h3 id="17-幸福门-李幸倪"><a href="#17-幸福门-李幸倪" class="headerlink" title="17 幸福门   李幸倪"></a>17 幸福门   李幸倪</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-UIBnHjBn" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-ONchqyeg" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-UIBnHjBn"),
+            element: document.getElementById("aplayer-ONchqyeg"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -3102,12 +3111,12 @@
 </tbody></table>
 <h3 id="18-美男子与香烟-李幸倪"><a href="#18-美男子与香烟-李幸倪" class="headerlink" title="18 美男子与香烟   李幸倪"></a>18 美男子与香烟   李幸倪</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-dgYDgxMl" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-IxCILXBh" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-dgYDgxMl"),
+            element: document.getElementById("aplayer-IxCILXBh"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -3207,12 +3216,12 @@
 </tbody></table>
 <h3 id="19-别人的家-李幸倪"><a href="#19-别人的家-李幸倪" class="headerlink" title="19 别人的家   李幸倪"></a>19 别人的家   李幸倪</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-bDztuAcc" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-CHqgCOsz" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-bDztuAcc"),
+            element: document.getElementById("aplayer-CHqgCOsz"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -3320,12 +3329,12 @@
 </tbody></table>
 <h3 id="20-搬-李幸倪"><a href="#20-搬-李幸倪" class="headerlink" title="20 搬   李幸倪"></a>20 搬   李幸倪</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-DucmcACA" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-XKsERbbA" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-DucmcACA"),
+            element: document.getElementById("aplayer-XKsERbbA"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -3434,12 +3443,12 @@
 </tbody></table>
 <h3 id="21-成家-李幸倪"><a href="#21-成家-李幸倪" class="headerlink" title="21 成家   李幸倪"></a>21 成家   李幸倪</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-pubatFZi" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-nrZZlFOh" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-pubatFZi"),
+            element: document.getElementById("aplayer-nrZZlFOh"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -3552,12 +3561,12 @@
 </tbody></table>
 <h3 id="22-See-You-Next-Time-AGA"><a href="#22-See-You-Next-Time-AGA" class="headerlink" title="22 See You Next Time   AGA"></a>22 See You Next Time   AGA</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-XJKpOESq" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-HESVTWYI" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-XJKpOESq"),
+            element: document.getElementById("aplayer-HESVTWYI"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -3650,12 +3659,12 @@
 </tbody></table>
 <h1 id="2021年（8-10）"><a href="#2021年（8-10）" class="headerlink" title="2021年（8+10）"></a>2021年（8+10）</h1><h2 id="歌曲集1（共8首）"><a href="#歌曲集1（共8首）" class="headerlink" title="歌曲集1（共8首）"></a>歌曲集1（共8首）</h2><h3 id="01-废柴-小肥"><a href="#01-废柴-小肥" class="headerlink" title="01 废柴   小肥"></a>01 废柴   小肥</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-oxrpdpgX" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-GEMLUGVz" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-oxrpdpgX"),
+            element: document.getElementById("aplayer-GEMLUGVz"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -3746,12 +3755,12 @@
 </tbody></table>
 <h3 id="02-你好吗-方皓玟"><a href="#02-你好吗-方皓玟" class="headerlink" title="02 你好吗   方皓玟"></a>02 你好吗   方皓玟</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-kHDdXWDi" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-gDIakVji" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-kHDdXWDi"),
+            element: document.getElementById("aplayer-gDIakVji"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -3847,12 +3856,12 @@
 </tbody></table>
 <h3 id="03-自白的勇气-林二汶"><a href="#03-自白的勇气-林二汶" class="headerlink" title="03 自白的勇气   林二汶"></a>03 自白的勇气   林二汶</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-pJHPQirp" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-kmFfcaZp" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-pJHPQirp"),
+            element: document.getElementById("aplayer-kmFfcaZp"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -3934,12 +3943,12 @@
 </tbody></table>
 <h3 id="04-佛系人生-许廷鏗"><a href="#04-佛系人生-许廷鏗" class="headerlink" title="04 佛系人生   许廷鏗"></a>04 佛系人生   许廷鏗</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-qufmvtAH" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-HxsPcegR" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-qufmvtAH"),
+            element: document.getElementById("aplayer-HxsPcegR"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -4018,12 +4027,12 @@
 </tbody></table>
 <h3 id="05-别放弃治疗-连诗雅"><a href="#05-别放弃治疗-连诗雅" class="headerlink" title="05 别放弃治疗   连诗雅"></a>05 别放弃治疗   连诗雅</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-ZtYXjDIM" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-lmIArjmv" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-ZtYXjDIM"),
+            element: document.getElementById("aplayer-lmIArjmv"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -4099,12 +4108,12 @@
 </tbody></table>
 <h3 id="06-最好好好讲再见-陈天翱"><a href="#06-最好好好讲再见-陈天翱" class="headerlink" title="06 最好好好讲再见   陈天翱"></a>06 最好好好讲再见   陈天翱</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-GzhAstYt" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-CpWAAXWO" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-GzhAstYt"),
+            element: document.getElementById("aplayer-CpWAAXWO"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -4205,12 +4214,12 @@
 </tbody></table>
 <h3 id="07-我的男朋友-达明一派"><a href="#07-我的男朋友-达明一派" class="headerlink" title="07 我的男朋友   达明一派"></a>07 我的男朋友   达明一派</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-loDKeqky" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-iyXzhZFY" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-loDKeqky"),
+            element: document.getElementById("aplayer-iyXzhZFY"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -4317,12 +4326,12 @@
 </tbody></table>
 <h3 id="08-两种人-Love-Follows-何嘉莉"><a href="#08-两种人-Love-Follows-何嘉莉" class="headerlink" title="08 两种人 Love Follows   何嘉莉"></a>08 两种人 Love Follows   何嘉莉</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-oxioPPOJ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-IJkosDZX" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-oxioPPOJ"),
+            element: document.getElementById("aplayer-IJkosDZX"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -4413,12 +4422,12 @@
 </blockquote>
 <h3 id="09-Old-Fashioned-黎明-张敬轩"><a href="#09-Old-Fashioned-黎明-张敬轩" class="headerlink" title="09 Old-Fashioned   黎明 张敬轩"></a>09 Old-Fashioned   黎明 张敬轩</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-DQWqiYER" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-QkIYIgzG" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-DQWqiYER"),
+            element: document.getElementById("aplayer-QkIYIgzG"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -4508,12 +4517,12 @@
 </tbody></table>
 <h3 id="10-烟花纪-容祖儿"><a href="#10-烟花纪-容祖儿" class="headerlink" title="10 烟花纪   容祖儿"></a>10 烟花纪   容祖儿</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-YeKZZkXi" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-RHzBfwEQ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-YeKZZkXi"),
+            element: document.getElementById("aplayer-RHzBfwEQ"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -4600,12 +4609,12 @@
 </tbody></table>
 <h3 id="11-辛苦你了-容祖儿"><a href="#11-辛苦你了-容祖儿" class="headerlink" title="11 辛苦你了   容祖儿"></a>11 辛苦你了   容祖儿</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-dSdzbAnO" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-ZfimABnO" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-dSdzbAnO"),
+            element: document.getElementById("aplayer-ZfimABnO"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -4697,12 +4706,12 @@
 </tbody></table>
 <h3 id="12-何日不再来-邓丽欣"><a href="#12-何日不再来-邓丽欣" class="headerlink" title="12 何日不再来   邓丽欣"></a>12 何日不再来   邓丽欣</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-JWqJCkCR" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-jMJUuJCy" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-JWqJCkCR"),
+            element: document.getElementById("aplayer-jMJUuJCy"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -4792,12 +4801,12 @@
 </tbody></table>
 <h3 id="13-一个人的地球-张敬轩"><a href="#13-一个人的地球-张敬轩" class="headerlink" title="13 一个人的地球   张敬轩"></a>13 一个人的地球   张敬轩</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-eEndEBER" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-MrTlAdKE" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-eEndEBER"),
+            element: document.getElementById("aplayer-MrTlAdKE"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -4881,12 +4890,12 @@
 </tbody></table>
 <h3 id="14-花样年华-郭子"><a href="#14-花样年华-郭子" class="headerlink" title="14 花样年华   郭子"></a>14 花样年华   郭子</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-VGmBimRb" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-feMFkyhk" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-VGmBimRb"),
+            element: document.getElementById("aplayer-feMFkyhk"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -4993,12 +5002,12 @@
 </tbody></table>
 <h3 id="15-因为爱所以恨-潘裕文"><a href="#15-因为爱所以恨-潘裕文" class="headerlink" title="15 因为爱所以恨   潘裕文"></a>15 因为爱所以恨   潘裕文</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-PloeoWHL" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-mgLbBJHs" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-PloeoWHL"),
+            element: document.getElementById("aplayer-mgLbBJHs"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -5076,12 +5085,12 @@
 </tbody></table>
 <h3 id="16-无人知晓的浪漫-潘裕文"><a href="#16-无人知晓的浪漫-潘裕文" class="headerlink" title="16 无人知晓的浪漫   潘裕文"></a>16 无人知晓的浪漫   潘裕文</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-NthTMQfT" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-GbKzZTgd" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-NthTMQfT"),
+            element: document.getElementById("aplayer-GbKzZTgd"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -5169,12 +5178,12 @@
 </tbody></table>
 <h3 id="17-迟了悔改-周殷廷"><a href="#17-迟了悔改-周殷廷" class="headerlink" title="17 迟了悔改   周殷廷"></a>17 迟了悔改   周殷廷</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-ASdJsWSg" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-jtEyBTWz" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-ASdJsWSg"),
+            element: document.getElementById("aplayer-jtEyBTWz"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -5266,12 +5275,12 @@
 </tbody></table>
 <h3 id="18-你为何还未睡-邓思朗"><a href="#18-你为何还未睡-邓思朗" class="headerlink" title="18 你为何还未睡   邓思朗"></a>18 你为何还未睡   邓思朗</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-yTTXtaxV" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-PlCETYIP" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-yTTXtaxV"),
+            element: document.getElementById("aplayer-PlCETYIP"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -5350,12 +5359,12 @@
 </tbody></table>
 <h1 id="2022年（10-1）"><a href="#2022年（10-1）" class="headerlink" title="2022年（10+1）"></a>2022年（10+1）</h1><h2 id="歌曲集1（共10首）"><a href="#歌曲集1（共10首）" class="headerlink" title="歌曲集1（共10首）"></a>歌曲集1（共10首）</h2><h3 id="01-某种老朋友-林家谦"><a href="#01-某种老朋友-林家谦" class="headerlink" title="01 某种老朋友   林家谦"></a>01 某种老朋友   林家谦</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-rRRyNxto" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-uowjmGTS" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-rRRyNxto"),
+            element: document.getElementById("aplayer-uowjmGTS"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -5454,12 +5463,12 @@
 </tbody></table>
 <h3 id="02-海底隧道-Kolor"><a href="#02-海底隧道-Kolor" class="headerlink" title="02 海底隧道   Kolor"></a>02 海底隧道   Kolor</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-ZKRPZMQE" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-SKxYOwNi" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-ZKRPZMQE"),
+            element: document.getElementById("aplayer-SKxYOwNi"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -5547,12 +5556,12 @@
 </tbody></table>
 <h3 id="03-推理的爱（寂寞年纪）-Yuta"><a href="#03-推理的爱（寂寞年纪）-Yuta" class="headerlink" title="03 推理的爱（寂寞年纪）   Yuta"></a>03 推理的爱（寂寞年纪）   Yuta</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-YEyMhUso" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-UXOkpkYj" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-YEyMhUso"),
+            element: document.getElementById("aplayer-UXOkpkYj"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -5628,12 +5637,12 @@
 </tbody></table>
 <h3 id="04-修罗场-许廷鏗"><a href="#04-修罗场-许廷鏗" class="headerlink" title="04 修罗场   许廷鏗"></a>04 修罗场   许廷鏗</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-ktpdZfPI" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-gDruBAsP" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-ktpdZfPI"),
+            element: document.getElementById("aplayer-gDruBAsP"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -5734,12 +5743,12 @@
 </tbody></table>
 <h3 id="05-没有人可以为你的幸福负责-许廷鏗"><a href="#05-没有人可以为你的幸福负责-许廷鏗" class="headerlink" title="05 没有人可以为你的幸福负责   许廷鏗"></a>05 没有人可以为你的幸福负责   许廷鏗</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-ccNEDrhY" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-lSvkXzQZ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-ccNEDrhY"),
+            element: document.getElementById("aplayer-lSvkXzQZ"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -5846,12 +5855,12 @@
 </tbody></table>
 <h3 id="06-有今生没来世-许廷鏗"><a href="#06-有今生没来世-许廷鏗" class="headerlink" title="06 有今生没来世   许廷鏗"></a>06 有今生没来世   许廷鏗</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-BBqDRdgB" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-oiNDOsVD" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-BBqDRdgB"),
+            element: document.getElementById("aplayer-oiNDOsVD"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -5938,12 +5947,12 @@
 </tbody></table>
 <h3 id="07-煽风点火-许廷鏗"><a href="#07-煽风点火-许廷鏗" class="headerlink" title="07 煽风点火   许廷鏗"></a>07 煽风点火   许廷鏗</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-nsyGSNgY" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-vbNfOHlN" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-nsyGSNgY"),
+            element: document.getElementById("aplayer-vbNfOHlN"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -6031,12 +6040,12 @@
 </tbody></table>
 <h3 id="08-都是别人的-许廷鏗"><a href="#08-都是别人的-许廷鏗" class="headerlink" title="08 都是别人的   许廷鏗"></a>08 都是别人的   许廷鏗</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-qzMpbGrt" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-ITCoSopz" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-qzMpbGrt"),
+            element: document.getElementById("aplayer-ITCoSopz"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -6122,12 +6131,12 @@
 </tbody></table>
 <h3 id="09-旁听他人的秘密-许廷鏗"><a href="#09-旁听他人的秘密-许廷鏗" class="headerlink" title="09 旁听他人的秘密   许廷鏗"></a>09 旁听他人的秘密   许廷鏗</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-unWVPWyn" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-gOXGikcz" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-unWVPWyn"),
+            element: document.getElementById("aplayer-gOXGikcz"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -6213,12 +6222,12 @@
 </tbody></table>
 <h3 id="10-小奇迹日-许廷鏗"><a href="#10-小奇迹日-许廷鏗" class="headerlink" title="10 小奇迹日   许廷鏗"></a>10 小奇迹日   许廷鏗</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-ImtzabqC" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-kzpceRdC" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-ImtzabqC"),
+            element: document.getElementById("aplayer-kzpceRdC"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -6297,12 +6306,12 @@
 </tbody></table>
 <h3 id="11-自我安慰-古巨基-张天赋"><a href="#11-自我安慰-古巨基-张天赋" class="headerlink" title="11 自我安慰   古巨基 张天赋"></a>11 自我安慰   古巨基 张天赋</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-itPzYMLV" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-JoQWNJmq" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-itPzYMLV"),
+            element: document.getElementById("aplayer-JoQWNJmq"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -6404,12 +6413,12 @@
 </blockquote>
 <h3 id="12-漂流教室-古巨基-吕爵安"><a href="#12-漂流教室-古巨基-吕爵安" class="headerlink" title="12 漂流教室   古巨基 吕爵安"></a>12 漂流教室   古巨基 吕爵安</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-ErvrWvzD" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-tLYnQhIs" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-ErvrWvzD"),
+            element: document.getElementById("aplayer-tLYnQhIs"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -6534,12 +6543,12 @@
 </blockquote>
 <h3 id="13-不演了-潘嘉丽"><a href="#13-不演了-潘嘉丽" class="headerlink" title="13 不演了   潘嘉丽"></a>13 不演了   潘嘉丽</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-vqySdwyc" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-XEzvsEgL" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-vqySdwyc"),
+            element: document.getElementById("aplayer-XEzvsEgL"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -6628,12 +6637,12 @@
 </tbody></table>
 <h1 id="2023年（6-5）"><a href="#2023年（6-5）" class="headerlink" title="2023年（6+5）"></a>2023年（6+5）</h1><h2 id="歌曲集1（共6首）"><a href="#歌曲集1（共6首）" class="headerlink" title="歌曲集1（共6首）"></a>歌曲集1（共6首）</h2><h3 id="01-52赫兹-Kolor"><a href="#01-52赫兹-Kolor" class="headerlink" title="01 52赫兹   Kolor"></a>01 52赫兹   Kolor</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-WTsHxuGv" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-yqGJtGTY" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-WTsHxuGv"),
+            element: document.getElementById("aplayer-yqGJtGTY"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -6715,12 +6724,12 @@
 </tbody></table>
 <h3 id="02-未生-吴林峰"><a href="#02-未生-吴林峰" class="headerlink" title="02 未生   吴林峰"></a>02 未生   吴林峰</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-lqhsQDsD" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-ymGdNTaQ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-lqhsQDsD"),
+            element: document.getElementById("aplayer-ymGdNTaQ"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -6817,12 +6826,12 @@
 </tbody></table>
 <h3 id="03-怪我只敢做好人-林家谦"><a href="#03-怪我只敢做好人-林家谦" class="headerlink" title="03 怪我只敢做好人   林家谦"></a>03 怪我只敢做好人   林家谦</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-cUiMffKq" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-ssNtcWZn" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-cUiMffKq"),
+            element: document.getElementById("aplayer-ssNtcWZn"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -6901,12 +6910,12 @@
 </tbody></table>
 <h3 id="04-十年如一日-陈慧敏"><a href="#04-十年如一日-陈慧敏" class="headerlink" title="04 十年如一日   陈慧敏"></a>04 十年如一日   陈慧敏</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-axJhIQIZ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-pKIEFtBc" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-axJhIQIZ"),
+            element: document.getElementById("aplayer-pKIEFtBc"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -7003,12 +7012,12 @@
 </tbody></table>
 <h3 id="05-命-蓝奕邦"><a href="#05-命-蓝奕邦" class="headerlink" title="05 命   蓝奕邦"></a>05 命   蓝奕邦</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-PdHxhIMy" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-IQsRRxWl" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-PdHxhIMy"),
+            element: document.getElementById("aplayer-IQsRRxWl"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -7094,12 +7103,12 @@
 </tbody></table>
 <h3 id="06-情定唐人街-蓝奕邦"><a href="#06-情定唐人街-蓝奕邦" class="headerlink" title="06 情定唐人街   蓝奕邦"></a>06 情定唐人街   蓝奕邦</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-PtnpyWFQ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-uNvUlXgW" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-PtnpyWFQ"),
+            element: document.getElementById("aplayer-uNvUlXgW"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -7185,12 +7194,12 @@
 </blockquote>
 <h3 id="07-Miss-u-Goodbye-AGA"><a href="#07-Miss-u-Goodbye-AGA" class="headerlink" title="07 Miss u Goodbye   AGA"></a>07 Miss u Goodbye   AGA</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-wdeNkAXF" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-JLSIFOyG" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-wdeNkAXF"),
+            element: document.getElementById("aplayer-JLSIFOyG"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -7277,12 +7286,12 @@
 </tbody></table>
 <h3 id="08-以为只是没送花-郭嘉骏"><a href="#08-以为只是没送花-郭嘉骏" class="headerlink" title="08 以为只是没送花   郭嘉骏"></a>08 以为只是没送花   郭嘉骏</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-tLvFwGdJ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-UeGJPqrY" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-tLvFwGdJ"),
+            element: document.getElementById("aplayer-UeGJPqrY"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -7379,12 +7388,12 @@
 </tbody></table>
 <h3 id="09-烈爱成灰-陈慧琳"><a href="#09-烈爱成灰-陈慧琳" class="headerlink" title="09 烈爱成灰   陈慧琳"></a>09 烈爱成灰   陈慧琳</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-cZWfLPRG" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-nNZABTbj" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-cZWfLPRG"),
+            element: document.getElementById("aplayer-nNZABTbj"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -7459,12 +7468,12 @@
 </tbody></table>
 <h3 id="10-谈情的价值-陈慧琳"><a href="#10-谈情的价值-陈慧琳" class="headerlink" title="10 谈情的价值   陈慧琳"></a>10 谈情的价值   陈慧琳</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-KJqMYsVi" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-FPxpFvHq" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-KJqMYsVi"),
+            element: document.getElementById("aplayer-FPxpFvHq"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -7551,12 +7560,12 @@
 </tbody></table>
 <h3 id="11-Want-周殷廷"><a href="#11-Want-周殷廷" class="headerlink" title="11 Want   周殷廷"></a>11 Want   周殷廷</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-rmaiWOKo" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-clXPvbWw" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-rmaiWOKo"),
+            element: document.getElementById("aplayer-clXPvbWw"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -7637,12 +7646,12 @@
 </tbody></table>
 <h1 id="2024年（5-1）"><a href="#2024年（5-1）" class="headerlink" title="2024年（5+1）"></a>2024年（5+1）</h1><h2 id="歌曲集1（共5首）"><a href="#歌曲集1（共5首）" class="headerlink" title="歌曲集1（共5首）"></a>歌曲集1（共5首）</h2><h3 id="01-自己爱情自己爱-cfy"><a href="#01-自己爱情自己爱-cfy" class="headerlink" title="01 自己爱情自己爱   cfy"></a>01 自己爱情自己爱   cfy</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-pTCAHuHu" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-uxzRBtVC" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-pTCAHuHu"),
+            element: document.getElementById("aplayer-uxzRBtVC"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -7736,12 +7745,12 @@
 </tbody></table>
 <h3 id="02-拯救我自己-陈慧敏"><a href="#02-拯救我自己-陈慧敏" class="headerlink" title="02 拯救我自己   陈慧敏"></a>02 拯救我自己   陈慧敏</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-ZPoIaYhf" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-IhmbdspJ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-ZPoIaYhf"),
+            element: document.getElementById("aplayer-IhmbdspJ"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -7830,12 +7839,12 @@
 </tbody></table>
 <h3 id="03-Control-Freak-小尘埃"><a href="#03-Control-Freak-小尘埃" class="headerlink" title="03 Control Freak   小尘埃"></a>03 Control Freak   小尘埃</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-HjwNLhFb" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-eurHDwBB" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-HjwNLhFb"),
+            element: document.getElementById("aplayer-eurHDwBB"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -7920,12 +7929,12 @@
 </tbody></table>
 <h3 id="04-普通人-刘威煌"><a href="#04-普通人-刘威煌" class="headerlink" title="04 普通人   刘威煌"></a>04 普通人   刘威煌</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-ONElZsGX" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-yxuGMkAw" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-ONElZsGX"),
+            element: document.getElementById("aplayer-yxuGMkAw"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -8044,12 +8053,12 @@
 </tbody></table>
 <h3 id="05-百妖夜行的修行-JACE"><a href="#05-百妖夜行的修行-JACE" class="headerlink" title="05 百妖夜行的修行   JACE"></a>05 百妖夜行的修行   JACE</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-GMaMfgDf" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-MOwvPEvk" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-GMaMfgDf"),
+            element: document.getElementById("aplayer-MOwvPEvk"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -8164,12 +8173,12 @@
 </blockquote>
 <h3 id="06-Why-You-AGA"><a href="#06-Why-You-AGA" class="headerlink" title="06 Why You   AGA"></a>06 Why You   AGA</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-bPSCAfOr" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-FyGmZeyv" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-bPSCAfOr"),
+            element: document.getElementById("aplayer-FyGmZeyv"),
             narrow: false,
             autoplay: false,
             showlrc: false,
