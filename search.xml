@@ -46,10 +46,10 @@
 
 <p> 创建一列自己的歌单：</p>
 
-        <div id="aplayer-QZWaMBZE" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
+        <div id="aplayer-quHINIBg" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
 			  <script>
 				  var options = {"narrow":false,"autoplay":false,"showlrc":3,"mode":"random","music":[{"title":"你为何还未睡","author":"邓思朗","url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405031119274.mp3","pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405031120468.jpg","lrc":"/2024/05/03/music/18_%E4%BD%A0%E4%B8%BA%E4%BD%95%E8%BF%98%E6%9C%AA%E7%9D%A1-%E9%82%93%E6%80%9D%E6%9C%97.lrc"},{"title":"碧玉","author":"王菀之","url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405021111945.mp3","pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/碧玉-专辑封面.png","lrc":"/2024/05/03/music/biyu.lrc"}]};
-				  options.element = document.getElementById("aplayer-QZWaMBZE");
+				  options.element = document.getElementById("aplayer-quHINIBg");
 				  var ap = new APlayer(options);
 			    window.aplayers || (window.aplayers = []);
 				  window.aplayers.push(ap);
@@ -69,7 +69,7 @@
 <p>听歌链接：<a href="https://musictest.kanxiyewords.cn/">music_test</a></p>
 <p>调用网易云歌单：</p>
 
-    <div id="aplayer-EPOElBWf" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-opMNCYHb" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="697054881" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
     ></div>
 
@@ -77,10 +77,10 @@
 
 <p> 创建一列自己的歌单：</p>
 
-        <div id="aplayer-EBPiRegz" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
+        <div id="aplayer-BPfEAYZi" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
 			  <script>
 				  var options = {"narrow":false,"autoplay":true,"showlrc":1,"mode":"random","music":[{"title":"你为何还未睡","author":"邓思朗","url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405031119274.mp3","pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405031120468.jpg","lrc":"[[00:00.00]APlayer\n[00:04.01]is\n[00:08.02]amazing"},{"title":"碧玉","author":"王菀之","url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405021111945.mp3","pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/碧玉-专辑封面.png","lrc":"[00:38.62]血脉飞 然后坐夜机\n[00:42.02]然后企着等台上发亮\n[00:47.69]计划中 无限震撼中\n[00:51.36]期待最值得期待偶像\n[00:57.10]奈何天都为我太紧张\n[01:02.13]将兴奋眼泪聚成暴雨\n[01:06.90]换来碧玉亮相似飞霜\n[01:12.32]逼心脏暂停一样\n[01:20.89]绝对的渴望 大概会失望\n[01:31.77]一起披风戴雨亦是场盛况\n[01:36.17]可跟你快乐地狼忙\n[01:42.26]未满足愿望 但永世不忘\n[01:52.61]这追星之旅发现原来是你\n[01:57.69]饰演我偶像又何妨\n[02:12.16]我梦想 沿路也幻想\n[02:15.62]寻觅了廿载 狂热对象\n[02:21.04]雨滴中 有着你渡过\n[02:24.56]先知有幸福伴我高唱\n[02:30.23]就如漆黑漫舞过风霜\n[02:35.71]天总有礼物 另行奉上\n[02:40.10]就如分担亦会变分享\n[02:45.73]金碧玉露藏心上\n[03:10.38]绝对的渴望 大概会失望\n[03:20.47]一起披风戴雨亦是场盛况\n[03:25.21]可跟你快乐地狼忙\n[03:31.07]未满足愿望 但永世不忘\n[03:41.38]这追星之旅发现原来是你\n[03:46.36]饰演我偶像又何妨\n[03:50.33]温馨中的彷徨\n[03:55.87]碧玉的乌托邦于心里平和像圣堂\n[04:01.25]辛苦得多难忘\n[04:03.81]无谕碰撞\n[04:09.27]无论跌宕\n"}]};
-				  options.element = document.getElementById("aplayer-EBPiRegz");
+				  options.element = document.getElementById("aplayer-BPfEAYZi");
 				  var ap = new APlayer(options);
 			    window.aplayers || (window.aplayers = []);
 				  window.aplayers.push(ap);
@@ -89,10 +89,10 @@
 
 
 
-        <div id="aplayer-UVwZszBM" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
+        <div id="aplayer-nnYUJQTx" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
 			  <script>
 				  var options = {"narrow":false,"autoplay":false,"showlrc":3,"mode":"random","music":[{"title":"你为何还未睡","author":"邓思朗","url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405031119274.mp3","pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405031120468.jpg","lrc":"/all_lrc/niweihe.lrc"},{"title":"碧玉","author":"王菀之","url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405021111945.mp3","pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/碧玉-专辑封面.png","lrc":"/all_lrc/biyu.lrc"}]};
-				  options.element = document.getElementById("aplayer-UVwZszBM");
+				  options.element = document.getElementById("aplayer-nnYUJQTx");
 				  var ap = new APlayer(options);
 			    window.aplayers || (window.aplayers = []);
 				  window.aplayers.push(ap);
@@ -108,7 +108,7 @@
 
 <p>标签文本</p>
 
-    <div id="aplayer-jYXuHiFG" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-tYZmbBPS" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="108468" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#5CB85C"
     ></div>
 
@@ -120,7 +120,7 @@
 
 
 <p>插入歌词：</p>
-<div id="aplayer-dLnCVnxa" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+<div id="aplayer-sFLPhjac" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
 				<pre class="aplayer-lrc-content">[00:38.62]血脉飞 然后坐夜机
 [00:42.02]然后企着等台上发亮
 [00:47.69]计划中 无限震撼中
@@ -157,7 +157,7 @@
 			</div>
 			<script>
 				var ap = new APlayer({
-					element: document.getElementById("aplayer-dLnCVnxa"),
+					element: document.getElementById("aplayer-sFLPhjac"),
 					narrow: false,
 					autoplay: false,
 					showlrc: 2,
@@ -194,12 +194,12 @@
 <p><a href="">百度网盘资源转存链接</a></p>
 <h2 id="歌曲"><a href="#歌曲" class="headerlink" title="歌曲"></a>歌曲</h2><h3 id="01-拼命无恙-林家谦"><a href="#01-拼命无恙-林家谦" class="headerlink" title="01 拼命无恙   林家谦"></a>01 拼命无恙   林家谦</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-TsNctfpo" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-YQCodlPX" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-TsNctfpo"),
+            element: document.getElementById("aplayer-YQCodlPX"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -293,12 +293,12 @@
 
 <h3 id="02-某种老朋友-林家谦"><a href="#02-某种老朋友-林家谦" class="headerlink" title="02 某种老朋友   林家谦"></a>02 某种老朋友   林家谦</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-YNArrtoG" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-oPsYfqCv" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-YNArrtoG"),
+            element: document.getElementById("aplayer-oPsYfqCv"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -407,12 +407,12 @@
 
 <h3 id="03-怪我只敢做好人-林家谦"><a href="#03-怪我只敢做好人-林家谦" class="headerlink" title="03 怪我只敢做好人   林家谦"></a>03 怪我只敢做好人   林家谦</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-dXQHqNfA" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-TixfdivU" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-dXQHqNfA"),
+            element: document.getElementById("aplayer-TixfdivU"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -601,12 +601,12 @@
 <p><a href="https://space.bilibili.com/361731143/channel/collectiondetail?sid=3010026">夕爷2024年作品所有MV</a></p>
 <h2 id="二、歌曲（共6首）"><a href="#二、歌曲（共6首）" class="headerlink" title="二、歌曲（共6首）"></a>二、歌曲（共6首）</h2><h3 id="01-自己爱情自己爱-cfy"><a href="#01-自己爱情自己爱-cfy" class="headerlink" title="01 自己爱情自己爱   cfy"></a>01 自己爱情自己爱   cfy</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-XVzwWlhR" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-BKeRbxIm" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-XVzwWlhR"),
+            element: document.getElementById("aplayer-BKeRbxIm"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -706,12 +706,12 @@
 </tbody></table>
 <h3 id="02-拯救我自己-陈慧敏"><a href="#02-拯救我自己-陈慧敏" class="headerlink" title="02 拯救我自己   陈慧敏"></a>02 拯救我自己   陈慧敏</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-AJzfmmaW" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-yMLBrvoA" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-AJzfmmaW"),
+            element: document.getElementById("aplayer-yMLBrvoA"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -731,6 +731,7 @@
 
 <p><strong>歌词与解析：</strong></p>
 <p><a href="https://mp.weixin.qq.com/s?__biz=Mzg5MTIyNjgxNg==&mid=2247485243&idx=1&sn=52f4b2007fa1f97fe416d7d3f10e2c7d&chksm=cfd1d894f8a651826860be935348d9e88a169483fd5baebfa7ce5c8421b2e3e620f80362b575&scene=21#wechat_redirect">转载自Everyone Likes Me字幕組——林夕新詞⊹若怕死 首先拯救自己·拯救我自己 (qq.com)</a></p>
+<p><a href="https://mp.weixin.qq.com/s/aYY8hlxjWm1bWR5YL-nfmw">转载自年粤日——若怕死，首先拯救自己 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>拯救我自己</tt><br>
@@ -806,12 +807,12 @@
 </tbody></table>
 <h3 id="03-Control-Freak-小尘埃"><a href="#03-Control-Freak-小尘埃" class="headerlink" title="03 Control Freak   小尘埃"></a>03 Control Freak   小尘埃</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-hQAwJMnC" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-suCPUDkv" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-hQAwJMnC"),
+            element: document.getElementById("aplayer-suCPUDkv"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -831,6 +832,7 @@
 
 <p><strong>歌词与解析：</strong></p>
 <p><a href="https://mp.weixin.qq.com/s?__biz=Mzg5MTIyNjgxNg==&mid=2247485233&idx=1&sn=b35d9bf01cdf1240f57695aa84da2787&chksm=cfd1d89ef8a65188d9b32b7422e8c1db9e57addbb67bb8879ad0fd8afa00baed4f07d5843401&scene=21#wechat_redirect">转载自Everyone Likes Me字幕組——林夕新詞⊹天恐怕懶得管我·Control Freak (qq.com)</a></p>
+<p><a href="https://mp.weixin.qq.com/s/q7N3m8DvKMOR0PDen2x1iA">转载自年粤日——放过自己，不做控制狂 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>Control Freak</tt><br>
@@ -901,12 +903,12 @@
 </tbody></table>
 <h3 id="04-普通人-刘威煌"><a href="#04-普通人-刘威煌" class="headerlink" title="04  普通人   刘威煌"></a>04  普通人   刘威煌</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-dwxcFgFn" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-ODIgISEl" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-dwxcFgFn"),
+            element: document.getElementById("aplayer-ODIgISEl"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -925,6 +927,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s/6lDfwwDuydjp31BrGffzFA">转载自边一个发明了cantopop——『要是人性都差不多，我怕看不清这是我』 (qq.com)</a></p>
 <p><a href="https://mp.weixin.qq.com/s?__biz=Mzg5MTIyNjgxNg==&mid=2247485258&idx=1&sn=8e96de92409679dc36594adb8dba6d9b&chksm=cfd1d8e5f8a651f3adfed6d42c9c6648c22f330cb24bade42e871c06e18b089b3d6820d2e360&scene=21#wechat_redirect">转载自Everyone Likes Me字幕組——林夕新詞⊹誰是誰何必需要想起我·普通人 (qq.com)</a></p>
 <blockquote class="song">
 <p>
@@ -1031,12 +1034,12 @@
 </tbody></table>
 <h3 id="05-Why-You-AGA（嘻嘻小号）"><a href="#05-Why-You-AGA（嘻嘻小号）" class="headerlink" title="05  Why You   AGA（嘻嘻小号）"></a>05  Why You   AGA（嘻嘻小号）</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-MRQJFPSA" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-BzyUmuIi" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-MRQJFPSA"),
+            element: document.getElementById("aplayer-BzyUmuIi"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1116,12 +1119,12 @@
 </tbody></table>
 <h3 id="06-百妖夜行的修行-JACE"><a href="#06-百妖夜行的修行-JACE" class="headerlink" title="06  百妖夜行的修行   JACE"></a>06  百妖夜行的修行   JACE</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-GbRyVVMP" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-yYmjfNZJ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-GbRyVVMP"),
+            element: document.getElementById("aplayer-yYmjfNZJ"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1285,7 +1288,7 @@
 </tr>
 <tr>
 <td align="center">05 拼命无恙-林家谦</td>
-<td align="center">06 自由之夏-黄耀明</td>
+<td align="center">06 フリーダム・サマー-原唱</td>
 </tr>
 <tr>
 <td align="center">07 恨-许廷鏗</td>
@@ -1316,7 +1319,7 @@
 <td align="center">06 最好好好讲再见-陈天翱</td>
 </tr>
 <tr>
-<td align="center">07 我的男朋友-达明一派</td>
+<td align="center">07 我的男朋友-原唱</td>
 <td align="center">08 两种人 Love Follows-何嘉莉</td>
 </tr>
 <tr>
@@ -1466,12 +1469,12 @@
 </tbody></table>
 <h1 id="2020年（12-10）"><a href="#2020年（12-10）" class="headerlink" title="2020年（12+10）"></a>2020年（12+10）</h1><h2 id="歌曲集1（共12首）"><a href="#歌曲集1（共12首）" class="headerlink" title="歌曲集1（共12首）"></a>歌曲集1（共12首）</h2><h3 id="01-幻爱-小尘埃"><a href="#01-幻爱-小尘埃" class="headerlink" title="01 幻爱   小尘埃"></a>01 幻爱   小尘埃</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-BZdBGDDJ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-bWngonWc" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-BZdBGDDJ"),
+            element: document.getElementById("aplayer-bWngonWc"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1490,6 +1493,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s/kNKaIBDvcQ6xvoM5vt5paw">转载自年粤日——一段如幻似真的爱情 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>幻爱</tt><br>
@@ -1551,12 +1555,12 @@
 </tbody></table>
 <h3 id="02-幻爱（国语版）-小尘埃"><a href="#02-幻爱（国语版）-小尘埃" class="headerlink" title="02 幻爱（国语版）   小尘埃"></a>02 幻爱（国语版）   小尘埃</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-wnxlQRtt" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-NNLgzyRE" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-wnxlQRtt"),
+            element: document.getElementById("aplayer-NNLgzyRE"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1575,6 +1579,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s/n9lsNty-TCW0soy18966-A">转载自Everyone Likes Me字幕組——林夕新詞⊹別讓我醒來·幻愛【國語版】 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>幻爱（国语版）</tt><br>
@@ -1649,12 +1654,12 @@
 </tbody></table>
 <h3 id="03-碧玉-王菀之"><a href="#03-碧玉-王菀之" class="headerlink" title="03 碧玉   王菀之"></a>03 碧玉   王菀之</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-FFOdggwG" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-FfoNrSrP" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-FFOdggwG"),
+            element: document.getElementById("aplayer-FfoNrSrP"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1673,6 +1678,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s/nWHaIY3jlResiSp7NXLoyQ">转载自Everyone Likes Me字幕組——林夕新詞⊹絕對的渴望大概會失望·碧玉 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>碧玉</tt><br>
@@ -1738,12 +1744,12 @@
 </tbody></table>
 <h3 id="04-无名指的勇气-林欣彤"><a href="#04-无名指的勇气-林欣彤" class="headerlink" title="04 无名指的勇气   林欣彤"></a>04 无名指的勇气   林欣彤</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-PPWIbriq" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-RBxigPJF" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-PPWIbriq"),
+            element: document.getElementById("aplayer-RBxigPJF"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1762,6 +1768,8 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s/aCcDldIVyQNGpfLUcUdFSw">转载自年粤日——如今，你还有勇气结婚吗？ (qq.com)</a></p>
+<p><a href="https://mp.weixin.qq.com/s/_sYLOpNZWR0hP9BBxiWsnw">转载自Everyone Likes Me字幕組——林夕新詞⊹一生一世也一起·無名指的勇氣 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>无名指的勇气</tt><br>
@@ -1835,12 +1843,12 @@
 </tbody></table>
 <h3 id="05-拼命无恙-林家谦"><a href="#05-拼命无恙-林家谦" class="headerlink" title="05 拼命无恙   林家谦"></a>05 拼命无恙   林家谦</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-qwXjBKmh" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-POirXHOs" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-qwXjBKmh"),
+            element: document.getElementById("aplayer-POirXHOs"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1860,6 +1868,7 @@
 
 <p><strong>歌词与解析：</strong></p>
 <p><a href="https://mp.weixin.qq.com/s/8gdFP-LDSX7uYOjzwWraZQ">转载自年粤日——努力过活，拼命无恙 (qq.com)</a></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=Mzg5MTIyNjgxNg==&mid=2247484068&idx=1&sn=43152138268e1f484712c6add7ab61d9&chksm=cfd1dd0bf8a6541dc7a5b95238b8e63d8dd312c67ba849ae10d412980f479808a248ce70aef9&scene=21#wechat_redirect">转载自Everyone Likes Me字幕組——林夕新詞⊹寧願痛苦能夠證實相戀過·拼命無恙 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>拼命无恙</tt><br>
@@ -1926,20 +1935,20 @@
 <td align="left">出版者：Terence Lam Production &amp; Co</td>
 </tr>
 </tbody></table>
-<h3 id="06-自由之夏-黄耀明"><a href="#06-自由之夏-黄耀明" class="headerlink" title="06 自由之夏   黄耀明"></a>06 自由之夏   黄耀明</h3><p><strong>MP3：</strong></p>
+<h3 id="06-フリーダム・サマー-原唱"><a href="#06-フリーダム・サマー-原唱" class="headerlink" title="06 フリーダム・サマー   原唱"></a>06 フリーダム・サマー   原唱</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-zCRBLBoM" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-nQZarImZ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-zCRBLBoM"),
+            element: document.getElementById("aplayer-nQZarImZ"),
             narrow: false,
             autoplay: false,
             showlrc: false,
             music: {
-              title: "自由之夏",
-              author: "黄耀明",
+              title: "フリーダム・サマー",
+              author: "原唱",
               url: "https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/mp3/06.mp3",
               pic: "https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/cover/06.jpg",
               lrc: ""
@@ -1954,7 +1963,7 @@
 <p><strong>歌词与解析：</strong></p>
 <blockquote class="song">
 <p>
-            <tt>自由之夏</tt><br>
+            <tt>フリーダム・サマー</tt><br>
             <at>林夕</at>
 <br> 何止像造了幾十年夢
 <br> 覺醒原来活於驚恐
@@ -1985,6 +1994,7 @@
 
 
 
+
 <p><strong>歌曲信息：</strong></p>
 <table>
 <thead>
@@ -1995,10 +2005,10 @@
 </thead>
 <tbody><tr>
 <td align="left">編 : GayBird@人山人海</td>
-<td align="left">監 : 黃耀明 &amp; GayBird@人山人海</td>
+<td align="left">監 : 原唱 &amp; GayBird@人山人海</td>
 </tr>
 <tr>
-<td align="left">唱 : 黄耀明</td>
+<td align="left">唱 : 原唱</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -2008,12 +2018,12 @@
 </tbody></table>
 <h3 id="07-恨-许廷鏗"><a href="#07-恨-许廷鏗" class="headerlink" title="07 恨   许廷鏗"></a>07 恨   许廷鏗</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-QWtAhMuF" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-bhbjsQUE" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-QWtAhMuF"),
+            element: document.getElementById("aplayer-bhbjsQUE"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -2032,6 +2042,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=Mzg5MTIyNjgxNg==&mid=2247484130&idx=1&sn=a652858405c31370efac39f5624b6177&chksm=cfd1dd4df8a6545b52a2f0e5a0b4485bcca9b4135522479a8b6a5e70f3f401672ba16c2aa319&scene=21#wechat_redirect">转载自Everyone Likes Me字幕組——林夕新詞⊹寬恕你 侮辱我善良·恨 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>恨</tt><br>
@@ -2099,12 +2110,12 @@
 </tbody></table>
 <h3 id="08-慌-许廷鏗"><a href="#08-慌-许廷鏗" class="headerlink" title="08 慌   许廷鏗"></a>08 慌   许廷鏗</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-TVQRNwcB" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-GxAIIAiV" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-TVQRNwcB"),
+            element: document.getElementById("aplayer-GxAIIAiV"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -2123,6 +2134,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=Mzg5MTIyNjgxNg==&mid=2247484150&idx=1&sn=65d89303e819faa66f0c8d0f5da01d57&chksm=cfd1dd59f8a6544fc8d849c75f6445eabf2e32c85666d084adee2b5cfb9ec88aa6950a2f4991&scene=21#wechat_redirect">转载自Everyone Likes Me字幕組——林夕新詞⊹我看不起我飾演誰·慌 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>慌</tt><br>
@@ -2187,12 +2199,12 @@
 </tbody></table>
 <h3 id="09-贱-许廷鏗"><a href="#09-贱-许廷鏗" class="headerlink" title="09 贱   许廷鏗"></a>09 贱   许廷鏗</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-AopqrtkC" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-GCDsOsse" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-AopqrtkC"),
+            element: document.getElementById("aplayer-GCDsOsse"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -2211,6 +2223,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=Mzg5MTIyNjgxNg==&mid=2247484167&idx=1&sn=db07891afa9e496d211e06ca08c385ba&chksm=cfd1dca8f8a655bea684455b39b3297481f3c59a2859e4632826ab16c7db098354b426c285f3&scene=21#wechat_redirect">转载自Everyone Likes Me字幕組——林夕新詞⊹我們還未夠賤有人還可更賤·賤 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>贱</tt><br>
@@ -2286,12 +2299,12 @@
 </tbody></table>
 <h3 id="10-谎-许廷鏗"><a href="#10-谎-许廷鏗" class="headerlink" title="10 谎   许廷鏗"></a>10 谎   许廷鏗</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-SVLNuhoV" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-gwVvipcA" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-SVLNuhoV"),
+            element: document.getElementById("aplayer-gwVvipcA"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -2310,6 +2323,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=Mzg5MTIyNjgxNg==&mid=2247484167&idx=2&sn=44b7acd51d98a58c0508a14a9b9a3cef&chksm=cfd1dca8f8a655be201713983ffbef1b89aa2a11bd8cf81833b9527f33e35a0af0e4bdbb3795&scene=21#wechat_redirect">转载自Everyone Likes Me字幕組——林夕新詞⊹人說謊得到什麼·謊 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>谎</tt><br>
@@ -2384,12 +2398,12 @@
 </tbody></table>
 <h3 id="11-亲密距离-刘美君"><a href="#11-亲密距离-刘美君" class="headerlink" title="11 亲密距离   刘美君"></a>11 亲密距离   刘美君</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-GqGQSfXL" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-xycZuRgD" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-GqGQSfXL"),
+            element: document.getElementById("aplayer-xycZuRgD"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -2408,6 +2422,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=Mzg5MTIyNjgxNg==&mid=2247484083&idx=1&sn=95f6e118ae2eadbcc6d302873b49176a&chksm=cfd1dd1cf8a6540aa4a7dc70c93604ff8025279e1cf053d8d66584667c150249ee1988d048c4&scene=21#wechat_redirect">转载自Everyone Likes Me字幕組——林夕新詞⊹其實不必分秒在一起·親密距離 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>亲密距离</tt><br>
@@ -2484,12 +2499,12 @@
 </tbody></table>
 <h3 id="12-只想死于你身边-谢安琪"><a href="#12-只想死于你身边-谢安琪" class="headerlink" title="12 只想死于你身边   谢安琪"></a>12 只想死于你身边   谢安琪</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-micSxhUv" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-GevfSKYu" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-micSxhUv"),
+            element: document.getElementById("aplayer-GevfSKYu"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -2508,6 +2523,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=Mzg5MTIyNjgxNg==&mid=2247484190&idx=1&sn=a7cc014bb9ab4cc35e191359e6e18fee&chksm=cfd1dcb1f8a655a7ba6654bf06416e451f57057a9626d7a90ad1bafaf3734f1d8ae2bac2596e&scene=21#wechat_redirect">转载自Everyone Likes Me字幕組——林夕新詞⊹就這樣終此一世·只想死於你身邊 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>只想死于你身边</tt><br>
@@ -2581,12 +2597,12 @@
 </blockquote>
 <h3 id="13-敢-李幸倪"><a href="#13-敢-李幸倪" class="headerlink" title="13 敢   李幸倪"></a>13 敢   李幸倪</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-zmymXIrl" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-DOQbgirM" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-zmymXIrl"),
+            element: document.getElementById("aplayer-DOQbgirM"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -2680,12 +2696,12 @@
 </tbody></table>
 <h3 id="14-开错灯-李幸倪"><a href="#14-开错灯-李幸倪" class="headerlink" title="14 开错灯   李幸倪"></a>14 开错灯   李幸倪</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-dRonvmFf" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-UVsMfyNe" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-dRonvmFf"),
+            element: document.getElementById("aplayer-UVsMfyNe"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -2810,12 +2826,12 @@
 </tbody></table>
 <h3 id="15-开灯-熄灯-熄灯版-李幸倪"><a href="#15-开灯-熄灯-熄灯版-李幸倪" class="headerlink" title="15 开灯 . 熄灯 (熄灯版)   李幸倪"></a>15 开灯 . 熄灯 (熄灯版)   李幸倪</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-WgkSUowM" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-fguKGfUX" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-WgkSUowM"),
+            element: document.getElementById("aplayer-fguKGfUX"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -2909,12 +2925,12 @@
 </tbody></table>
 <h3 id="16-开灯-熄灯-开灯版-李幸倪"><a href="#16-开灯-熄灯-开灯版-李幸倪" class="headerlink" title="16 开灯 . 熄灯 (开灯版)   李幸倪"></a>16 开灯 . 熄灯 (开灯版)   李幸倪</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-wapORClr" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-rOuPqjbg" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-wapORClr"),
+            element: document.getElementById("aplayer-rOuPqjbg"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -3005,12 +3021,12 @@
 </tbody></table>
 <h3 id="17-幸福门-李幸倪"><a href="#17-幸福门-李幸倪" class="headerlink" title="17 幸福门   李幸倪"></a>17 幸福门   李幸倪</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-ONchqyeg" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-QRLRirxu" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-ONchqyeg"),
+            element: document.getElementById("aplayer-QRLRirxu"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -3111,12 +3127,12 @@
 </tbody></table>
 <h3 id="18-美男子与香烟-李幸倪"><a href="#18-美男子与香烟-李幸倪" class="headerlink" title="18 美男子与香烟   李幸倪"></a>18 美男子与香烟   李幸倪</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-IxCILXBh" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-QCfdyCxp" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-IxCILXBh"),
+            element: document.getElementById("aplayer-QCfdyCxp"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -3216,12 +3232,12 @@
 </tbody></table>
 <h3 id="19-别人的家-李幸倪"><a href="#19-别人的家-李幸倪" class="headerlink" title="19 别人的家   李幸倪"></a>19 别人的家   李幸倪</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-CHqgCOsz" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-ohrpLLsW" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-CHqgCOsz"),
+            element: document.getElementById("aplayer-ohrpLLsW"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -3329,12 +3345,12 @@
 </tbody></table>
 <h3 id="20-搬-李幸倪"><a href="#20-搬-李幸倪" class="headerlink" title="20 搬   李幸倪"></a>20 搬   李幸倪</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-XKsERbbA" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-ExXjLbAn" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-XKsERbbA"),
+            element: document.getElementById("aplayer-ExXjLbAn"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -3443,12 +3459,12 @@
 </tbody></table>
 <h3 id="21-成家-李幸倪"><a href="#21-成家-李幸倪" class="headerlink" title="21 成家   李幸倪"></a>21 成家   李幸倪</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-nrZZlFOh" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-mRazYeQR" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-nrZZlFOh"),
+            element: document.getElementById("aplayer-mRazYeQR"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -3561,12 +3577,12 @@
 </tbody></table>
 <h3 id="22-See-You-Next-Time-AGA"><a href="#22-See-You-Next-Time-AGA" class="headerlink" title="22 See You Next Time   AGA"></a>22 See You Next Time   AGA</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-HESVTWYI" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-QRUaeEoQ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-HESVTWYI"),
+            element: document.getElementById("aplayer-QRUaeEoQ"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -3659,12 +3675,12 @@
 </tbody></table>
 <h1 id="2021年（8-10）"><a href="#2021年（8-10）" class="headerlink" title="2021年（8+10）"></a>2021年（8+10）</h1><h2 id="歌曲集1（共8首）"><a href="#歌曲集1（共8首）" class="headerlink" title="歌曲集1（共8首）"></a>歌曲集1（共8首）</h2><h3 id="01-废柴-小肥"><a href="#01-废柴-小肥" class="headerlink" title="01 废柴   小肥"></a>01 废柴   小肥</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-GEMLUGVz" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-lYBwdaMQ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-GEMLUGVz"),
+            element: document.getElementById("aplayer-lYBwdaMQ"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -3683,6 +3699,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s/aKp7IAH_71RWF_SI5YLRiA">转载自年粤日——我唔想做一个废柴 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>废柴</tt><br>
@@ -3755,12 +3772,12 @@
 </tbody></table>
 <h3 id="02-你好吗-方皓玟"><a href="#02-你好吗-方皓玟" class="headerlink" title="02 你好吗   方皓玟"></a>02 你好吗   方皓玟</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-gDIakVji" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-kBvjRgvg" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-gDIakVji"),
+            element: document.getElementById("aplayer-kBvjRgvg"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -3779,6 +3796,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=Mzg5MTIyNjgxNg==&mid=2247484326&idx=1&sn=d337e11aee1fa844f9b1b02ade8f0589&chksm=cfd1dc09f8a6551fd3e1111b6071475b2ba9c5191797701778b872105fb48c5d21400c827915&scene=21#wechat_redirect">转载自Everyone Likes Me字幕組——林夕新詞⊹夜來螢火不墮·你好嗎 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>你好吗</tt><br>
@@ -3856,12 +3874,12 @@
 </tbody></table>
 <h3 id="03-自白的勇气-林二汶"><a href="#03-自白的勇气-林二汶" class="headerlink" title="03 自白的勇气   林二汶"></a>03 自白的勇气   林二汶</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-kmFfcaZp" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-PmXzUEws" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-kmFfcaZp"),
+            element: document.getElementById("aplayer-PmXzUEws"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -3880,6 +3898,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=Mzg5MTIyNjgxNg==&mid=2247484378&idx=1&sn=60aec79d15291526dcf2425cab8a8af0&chksm=cfd1dc75f8a6556310969b3aab7b85b159253ef8b009ef95c71e9763754ada2168feee243171&scene=21#wechat_redirect">转载自Everyone Likes Me字幕組——林夕新詞⊹凡事都有定期·自白的勇氣 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>自白的勇气</tt><br>
@@ -3943,12 +3962,12 @@
 </tbody></table>
 <h3 id="04-佛系人生-许廷鏗"><a href="#04-佛系人生-许廷鏗" class="headerlink" title="04 佛系人生   许廷鏗"></a>04 佛系人生   许廷鏗</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-HxsPcegR" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-PFwwchXZ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-HxsPcegR"),
+            element: document.getElementById("aplayer-PFwwchXZ"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -3967,6 +3986,8 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=Mzg5MTIyNjgxNg==&mid=2247484342&idx=1&sn=8ffe83d2d555e7fa39d2fc9319be9b0b&chksm=cfd1dc19f8a6550f5aa7def0c11a2addb6aa208d5c4814f21f4a9f0360862972f7d9d316f383&scene=21#wechat_redirect">转载自Everyone Likes Me字幕組——林夕新詞⊹天知外有我知·別放棄治療 (qq.com)</a></p>
+<p><a href="https://mp.weixin.qq.com/s/IAieFlQm_6umod1lTHmzRw">转载自年粤日——过好我的佛系人生 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>佛系人生</tt><br>
@@ -4027,12 +4048,12 @@
 </tbody></table>
 <h3 id="05-别放弃治疗-连诗雅"><a href="#05-别放弃治疗-连诗雅" class="headerlink" title="05 别放弃治疗   连诗雅"></a>05 别放弃治疗   连诗雅</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-lmIArjmv" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-VqhCveXy" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-lmIArjmv"),
+            element: document.getElementById("aplayer-VqhCveXy"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -4051,6 +4072,8 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=Mzg5MTIyNjgxNg==&mid=2247484342&idx=1&sn=8ffe83d2d555e7fa39d2fc9319be9b0b&chksm=cfd1dc19f8a6550f5aa7def0c11a2addb6aa208d5c4814f21f4a9f0360862972f7d9d316f383&scene=21#wechat_redirect">转载自Everyone Likes Me字幕組——林夕新詞⊹天知外有我知·別放棄治療 (qq.com)</a></p>
+<p><a href="https://mp.weixin.qq.com/s/mDKb3AaDNzjfukOYjlJ5fA">转载自年粤日——别放弃治疗，好吗？ (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>别放弃治疗</tt><br>
@@ -4108,12 +4131,12 @@
 </tbody></table>
 <h3 id="06-最好好好讲再见-陈天翱"><a href="#06-最好好好讲再见-陈天翱" class="headerlink" title="06 最好好好讲再见   陈天翱"></a>06 最好好好讲再见   陈天翱</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-CpWAAXWO" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-MxCRjMsp" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-CpWAAXWO"),
+            element: document.getElementById("aplayer-MxCRjMsp"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -4132,6 +4155,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=Mzg5MTIyNjgxNg==&mid=2247484389&idx=1&sn=cd641d53e6c5fbfbd1d80bf87d6d99ad&chksm=cfd1dc4af8a6555cfe18712bfb00fd1da735d31dc81e3ce3f2b749908284cdf16abec8c779d3&scene=21#wechat_redirect">转载自Everyone Likes Me字幕組——林夕新詞⊹抬頭尚有耀眼明天·最好好好講再見 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>最好好好讲再见</tt><br>
@@ -4212,20 +4236,20 @@
 <td align="left">出版者：Kingdom C Production Ltd</td>
 </tr>
 </tbody></table>
-<h3 id="07-我的男朋友-达明一派"><a href="#07-我的男朋友-达明一派" class="headerlink" title="07 我的男朋友   达明一派"></a>07 我的男朋友   达明一派</h3><p><strong>MP3：</strong></p>
+<h3 id="07-我的男朋友-原唱"><a href="#07-我的男朋友-原唱" class="headerlink" title="07 我的男朋友   原唱"></a>07 我的男朋友   原唱</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-iyXzhZFY" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-fJvNdUDa" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-iyXzhZFY"),
+            element: document.getElementById("aplayer-fJvNdUDa"),
             narrow: false,
             autoplay: false,
             showlrc: false,
             music: {
               title: "我的男朋友",
-              author: "达明一派",
+              author: "原唱",
               url: "https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/mp3/07.mp3",
               pic: "https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/cover/07.jpg",
               lrc: ""
@@ -4238,6 +4262,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s/sFlo9XkLABBVyQab-GY7tg">转载自Everyone Likes Me字幕組——達明新歌&#x2F;林夕新詞⊹憂患誕生安樂至死·我的男朋友 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>我的男朋友</tt><br>
@@ -4308,15 +4333,15 @@
 <thead>
 <tr>
 <th align="left">詞｜林夕</th>
-<th align="left">曲 : 黃耀明&#x2F;劉以達&#x2F;蔡德才</th>
+<th align="left">曲 : 原唱&#x2F;劉以達&#x2F;蔡德才</th>
 </tr>
 </thead>
 <tbody><tr>
 <td align="left">編 : 李端嫻</td>
-<td align="left">監 : 達明一派  李端嫻 @<em>veegay</em></td>
+<td align="left">監 : 原唱  李端嫻 @<em>veegay</em></td>
 </tr>
 <tr>
-<td align="left">唱 : 黄耀明</td>
+<td align="left">唱 : 原唱</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -4326,12 +4351,12 @@
 </tbody></table>
 <h3 id="08-两种人-Love-Follows-何嘉莉"><a href="#08-两种人-Love-Follows-何嘉莉" class="headerlink" title="08 两种人 Love Follows   何嘉莉"></a>08 两种人 Love Follows   何嘉莉</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-IJkosDZX" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-YCtwwZju" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-IJkosDZX"),
+            element: document.getElementById("aplayer-YCtwwZju"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -4350,6 +4375,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s/w-erAzG6Ps4rzgfNiLtcmA">转载自年粤日——你共我，是两种人 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>两种人 Love Follows</tt><br>
@@ -4422,12 +4448,12 @@
 </blockquote>
 <h3 id="09-Old-Fashioned-黎明-张敬轩"><a href="#09-Old-Fashioned-黎明-张敬轩" class="headerlink" title="09 Old-Fashioned   黎明 张敬轩"></a>09 Old-Fashioned   黎明 张敬轩</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-QkIYIgzG" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-ouQpPIRe" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-QkIYIgzG"),
+            element: document.getElementById("aplayer-ouQpPIRe"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -4517,12 +4543,12 @@
 </tbody></table>
 <h3 id="10-烟花纪-容祖儿"><a href="#10-烟花纪-容祖儿" class="headerlink" title="10 烟花纪   容祖儿"></a>10 烟花纪   容祖儿</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-RHzBfwEQ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-XgOzhISp" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-RHzBfwEQ"),
+            element: document.getElementById("aplayer-XgOzhISp"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -4541,6 +4567,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s/PVeQdf1FaIBD04HzrW6kYw">转载自年粤日——告别《搜神记》，自创「烟花纪」 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>烟花纪</tt><br>
@@ -4609,12 +4636,12 @@
 </tbody></table>
 <h3 id="11-辛苦你了-容祖儿"><a href="#11-辛苦你了-容祖儿" class="headerlink" title="11 辛苦你了   容祖儿"></a>11 辛苦你了   容祖儿</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-ZfimABnO" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-HjmYNJUA" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-ZfimABnO"),
+            element: document.getElementById("aplayer-HjmYNJUA"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -4633,6 +4660,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s/E1Z3jDCIHuia2GfNqO4k4A">转载自年粤日——过去一年，辛苦你了 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>辛苦你了</tt><br>
@@ -4706,12 +4734,12 @@
 </tbody></table>
 <h3 id="12-何日不再来-邓丽欣"><a href="#12-何日不再来-邓丽欣" class="headerlink" title="12 何日不再来   邓丽欣"></a>12 何日不再来   邓丽欣</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-jMJUuJCy" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-NVNZdavc" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-jMJUuJCy"),
+            element: document.getElementById("aplayer-NVNZdavc"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -4801,12 +4829,12 @@
 </tbody></table>
 <h3 id="13-一个人的地球-张敬轩"><a href="#13-一个人的地球-张敬轩" class="headerlink" title="13 一个人的地球   张敬轩"></a>13 一个人的地球   张敬轩</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-MrTlAdKE" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-EdjkDEDD" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-MrTlAdKE"),
+            element: document.getElementById("aplayer-EdjkDEDD"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -4890,12 +4918,12 @@
 </tbody></table>
 <h3 id="14-花样年华-郭子"><a href="#14-花样年华-郭子" class="headerlink" title="14 花样年华   郭子"></a>14 花样年华   郭子</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-feMFkyhk" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-IHYAMKgB" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-feMFkyhk"),
+            element: document.getElementById("aplayer-IHYAMKgB"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -5002,12 +5030,12 @@
 </tbody></table>
 <h3 id="15-因为爱所以恨-潘裕文"><a href="#15-因为爱所以恨-潘裕文" class="headerlink" title="15 因为爱所以恨   潘裕文"></a>15 因为爱所以恨   潘裕文</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-mgLbBJHs" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-RRSyoJks" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-mgLbBJHs"),
+            element: document.getElementById("aplayer-RRSyoJks"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -5085,12 +5113,12 @@
 </tbody></table>
 <h3 id="16-无人知晓的浪漫-潘裕文"><a href="#16-无人知晓的浪漫-潘裕文" class="headerlink" title="16 无人知晓的浪漫   潘裕文"></a>16 无人知晓的浪漫   潘裕文</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-GbKzZTgd" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-nwcqfZcZ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-GbKzZTgd"),
+            element: document.getElementById("aplayer-nwcqfZcZ"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -5178,12 +5206,12 @@
 </tbody></table>
 <h3 id="17-迟了悔改-周殷廷"><a href="#17-迟了悔改-周殷廷" class="headerlink" title="17 迟了悔改   周殷廷"></a>17 迟了悔改   周殷廷</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-jtEyBTWz" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-cdKgSYyW" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-jtEyBTWz"),
+            element: document.getElementById("aplayer-cdKgSYyW"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -5275,12 +5303,12 @@
 </tbody></table>
 <h3 id="18-你为何还未睡-邓思朗"><a href="#18-你为何还未睡-邓思朗" class="headerlink" title="18 你为何还未睡   邓思朗"></a>18 你为何还未睡   邓思朗</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-PlCETYIP" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-SoLtyhQH" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-PlCETYIP"),
+            element: document.getElementById("aplayer-SoLtyhQH"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -5299,6 +5327,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s/Xk3C1fAKbPgVnCkld_RlOw">转载自年粤日——你为何还未睡？ (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>你为何还未睡</tt><br>
@@ -5359,12 +5388,12 @@
 </tbody></table>
 <h1 id="2022年（10-1）"><a href="#2022年（10-1）" class="headerlink" title="2022年（10+1）"></a>2022年（10+1）</h1><h2 id="歌曲集1（共10首）"><a href="#歌曲集1（共10首）" class="headerlink" title="歌曲集1（共10首）"></a>歌曲集1（共10首）</h2><h3 id="01-某种老朋友-林家谦"><a href="#01-某种老朋友-林家谦" class="headerlink" title="01 某种老朋友   林家谦"></a>01 某种老朋友   林家谦</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-uowjmGTS" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-nSZpumMu" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-uowjmGTS"),
+            element: document.getElementById("aplayer-nSZpumMu"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -5463,12 +5492,12 @@
 </tbody></table>
 <h3 id="02-海底隧道-Kolor"><a href="#02-海底隧道-Kolor" class="headerlink" title="02 海底隧道   Kolor"></a>02 海底隧道   Kolor</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-SKxYOwNi" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-tEzEBRTO" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-SKxYOwNi"),
+            element: document.getElementById("aplayer-tEzEBRTO"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -5487,6 +5516,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s/TU-f07jUmtEKZZHizyZaDA">转载自Everyone Likes Me字幕組——林夕新詞⊹在隧道慢行漫舞·海底隧道 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>海底隧道</tt><br>
@@ -5556,12 +5586,12 @@
 </tbody></table>
 <h3 id="03-推理的爱（寂寞年纪）-Yuta"><a href="#03-推理的爱（寂寞年纪）-Yuta" class="headerlink" title="03 推理的爱（寂寞年纪）   Yuta"></a>03 推理的爱（寂寞年纪）   Yuta</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-UXOkpkYj" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-jCZYAZDv" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-UXOkpkYj"),
+            element: document.getElementById("aplayer-jCZYAZDv"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -5580,6 +5610,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s/4KqeMO1lRDgNKu4tTga4Sg">转载自Everyone Likes Me字幕組——林夕新詞⊹喜歡的人未敢歡喜太沒天理·推理的愛 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>推理的爱</tt><br>
@@ -5637,12 +5668,12 @@
 </tbody></table>
 <h3 id="04-修罗场-许廷鏗"><a href="#04-修罗场-许廷鏗" class="headerlink" title="04 修罗场   许廷鏗"></a>04 修罗场   许廷鏗</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-gDruBAsP" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-xiYANcbl" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-gDruBAsP"),
+            element: document.getElementById("aplayer-xiYANcbl"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -5661,6 +5692,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=Mzg5MTIyNjgxNg==&mid=2247484793&idx=1&sn=ab8819ba1aec5a36d1127740bc10f3cb&chksm=cfd1dad6f8a653c05532a48eac69edd22395c8cec544e88db83b511b880c55ec28aa1cc90da6&scene=21#wechat_redirect">转载自Everyone Likes Me字幕組——林夕新詞⊹陰影叫我們成長·修羅場 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>修罗场</tt><br>
@@ -5743,12 +5775,12 @@
 </tbody></table>
 <h3 id="05-没有人可以为你的幸福负责-许廷鏗"><a href="#05-没有人可以为你的幸福负责-许廷鏗" class="headerlink" title="05 没有人可以为你的幸福负责   许廷鏗"></a>05 没有人可以为你的幸福负责   许廷鏗</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-lSvkXzQZ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-jfpLIxsM" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-lSvkXzQZ"),
+            element: document.getElementById("aplayer-jfpLIxsM"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -5767,6 +5799,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=Mzg5MTIyNjgxNg==&mid=2247484817&idx=1&sn=a5e38d0a0caa29430714b0f3c082691f&chksm=cfd1da3ef8a65328adac95dbb2494217319a64c3bf2cf9510b4ab61233b28b441d596229a380&scene=21#wechat_redirect">转载自Everyone Likes Me字幕組——林夕新詞⊹別傷心傷上癮·沒有人可以為你的幸福負責 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>没有人可以为你的幸福负责</tt><br>
@@ -5855,12 +5888,12 @@
 </tbody></table>
 <h3 id="06-有今生没来世-许廷鏗"><a href="#06-有今生没来世-许廷鏗" class="headerlink" title="06 有今生没来世   许廷鏗"></a>06 有今生没来世   许廷鏗</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-oiNDOsVD" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-dtzzkCPa" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-oiNDOsVD"),
+            element: document.getElementById("aplayer-dtzzkCPa"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -5879,6 +5912,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=Mzg5MTIyNjgxNg==&mid=2247484867&idx=1&sn=5943fc41782572741e2e136063c22811&chksm=cfd1da6cf8a6537a88bc6d7120d19bcc04abd48acc0f73381cd132ffc008e99f6f47c4ed0a9c&scene=21#wechat_redirect">转载自Everyone Likes Me字幕組——林夕新詞（含試聽）⊹記憶將它登記編作某年某一日·2021 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>有今生没来世</tt><br>
@@ -5947,12 +5981,12 @@
 </tbody></table>
 <h3 id="07-煽风点火-许廷鏗"><a href="#07-煽风点火-许廷鏗" class="headerlink" title="07 煽风点火   许廷鏗"></a>07 煽风点火   许廷鏗</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-vbNfOHlN" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-zPJdWUyF" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-vbNfOHlN"),
+            element: document.getElementById("aplayer-zPJdWUyF"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -5971,6 +6005,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=Mzg5MTIyNjgxNg==&mid=2247484867&idx=1&sn=5943fc41782572741e2e136063c22811&chksm=cfd1da6cf8a6537a88bc6d7120d19bcc04abd48acc0f73381cd132ffc008e99f6f47c4ed0a9c&scene=21#wechat_redirect">转载自Everyone Likes Me字幕組——林夕新詞（含試聽）⊹記憶將它登記編作某年某一日·2021 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>煽风点火</tt><br>
@@ -6040,12 +6075,12 @@
 </tbody></table>
 <h3 id="08-都是别人的-许廷鏗"><a href="#08-都是别人的-许廷鏗" class="headerlink" title="08 都是别人的   许廷鏗"></a>08 都是别人的   许廷鏗</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-ITCoSopz" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-lAVfHCHm" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-ITCoSopz"),
+            element: document.getElementById("aplayer-lAVfHCHm"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -6064,6 +6099,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=Mzg5MTIyNjgxNg==&mid=2247484867&idx=1&sn=5943fc41782572741e2e136063c22811&chksm=cfd1da6cf8a6537a88bc6d7120d19bcc04abd48acc0f73381cd132ffc008e99f6f47c4ed0a9c&scene=21#wechat_redirect">转载自Everyone Likes Me字幕組——林夕新詞（含試聽）⊹記憶將它登記編作某年某一日·2021 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>都是别人的</tt><br>
@@ -6131,12 +6167,12 @@
 </tbody></table>
 <h3 id="09-旁听他人的秘密-许廷鏗"><a href="#09-旁听他人的秘密-许廷鏗" class="headerlink" title="09 旁听他人的秘密   许廷鏗"></a>09 旁听他人的秘密   许廷鏗</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-gOXGikcz" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-FnWBsdEZ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-gOXGikcz"),
+            element: document.getElementById("aplayer-FnWBsdEZ"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -6155,6 +6191,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=Mzg5MTIyNjgxNg==&mid=2247484867&idx=1&sn=5943fc41782572741e2e136063c22811&chksm=cfd1da6cf8a6537a88bc6d7120d19bcc04abd48acc0f73381cd132ffc008e99f6f47c4ed0a9c&scene=21#wechat_redirect">转载自Everyone Likes Me字幕組——林夕新詞（含試聽）⊹記憶將它登記編作某年某一日·2021 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>旁听他人的秘密</tt><br>
@@ -6222,12 +6259,12 @@
 </tbody></table>
 <h3 id="10-小奇迹日-许廷鏗"><a href="#10-小奇迹日-许廷鏗" class="headerlink" title="10 小奇迹日   许廷鏗"></a>10 小奇迹日   许廷鏗</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-kzpceRdC" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-MmwrjcEN" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-kzpceRdC"),
+            element: document.getElementById("aplayer-MmwrjcEN"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -6246,6 +6283,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=Mzg5MTIyNjgxNg==&mid=2247484867&idx=1&sn=5943fc41782572741e2e136063c22811&chksm=cfd1da6cf8a6537a88bc6d7120d19bcc04abd48acc0f73381cd132ffc008e99f6f47c4ed0a9c&scene=21#wechat_redirect">转载自Everyone Likes Me字幕組——林夕新詞（含試聽）⊹記憶將它登記編作某年某一日·2021 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>小奇迹日</tt><br>
@@ -6306,12 +6344,12 @@
 </tbody></table>
 <h3 id="11-自我安慰-古巨基-张天赋"><a href="#11-自我安慰-古巨基-张天赋" class="headerlink" title="11 自我安慰   古巨基 张天赋"></a>11 自我安慰   古巨基 张天赋</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-JoQWNJmq" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-ehCBjpww" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-JoQWNJmq"),
+            element: document.getElementById("aplayer-ehCBjpww"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -6413,12 +6451,12 @@
 </blockquote>
 <h3 id="12-漂流教室-古巨基-吕爵安"><a href="#12-漂流教室-古巨基-吕爵安" class="headerlink" title="12 漂流教室   古巨基 吕爵安"></a>12 漂流教室   古巨基 吕爵安</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-tLYnQhIs" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-uuEfyLqN" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-tLYnQhIs"),
+            element: document.getElementById("aplayer-uuEfyLqN"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -6543,12 +6581,12 @@
 </blockquote>
 <h3 id="13-不演了-潘嘉丽"><a href="#13-不演了-潘嘉丽" class="headerlink" title="13 不演了   潘嘉丽"></a>13 不演了   潘嘉丽</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-XEzvsEgL" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-zghNmhSO" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-XEzvsEgL"),
+            element: document.getElementById("aplayer-zghNmhSO"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -6637,12 +6675,12 @@
 </tbody></table>
 <h1 id="2023年（6-5）"><a href="#2023年（6-5）" class="headerlink" title="2023年（6+5）"></a>2023年（6+5）</h1><h2 id="歌曲集1（共6首）"><a href="#歌曲集1（共6首）" class="headerlink" title="歌曲集1（共6首）"></a>歌曲集1（共6首）</h2><h3 id="01-52赫兹-Kolor"><a href="#01-52赫兹-Kolor" class="headerlink" title="01 52赫兹   Kolor"></a>01 52赫兹   Kolor</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-yqGJtGTY" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-czBxQWHW" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-yqGJtGTY"),
+            element: document.getElementById("aplayer-czBxQWHW"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -6661,6 +6699,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=Mzg5MTIyNjgxNg==&mid=2247485103&idx=1&sn=ed3f02b9b3e97c58dee7dde2ee74a028&chksm=cfd1d900f8a650164efe8d09f136b6dd9559b56c671ecc7ffa3cd9624112ff79d7caf8a5235c&scene=21#wechat_redirect">转载自Everyone Likes Me字幕組——林夕新詞⊹如何可聽得到共鳴如鯨歌·52赫茲 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>52赫兹</tt><br>
@@ -6724,12 +6763,12 @@
 </tbody></table>
 <h3 id="02-未生-吴林峰"><a href="#02-未生-吴林峰" class="headerlink" title="02 未生   吴林峰"></a>02 未生   吴林峰</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-ymGdNTaQ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-duSvMNaj" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-ymGdNTaQ"),
+            element: document.getElementById("aplayer-duSvMNaj"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -6748,6 +6787,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=Mzg5MTIyNjgxNg==&mid=2247485183&idx=1&sn=ca49dc2705490df6e5eed7e9e3bb2c4e&chksm=cfd1d950f8a650466406ce0e30028d4e921998df88791b133292db52fd57cff179badabfa50e&scene=21#wechat_redirect">转载自Everyone Likes Me字幕組——林夕新詞⊹別話我或你不該出世·未生 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>未生</tt><br>
@@ -6826,12 +6866,12 @@
 </tbody></table>
 <h3 id="03-怪我只敢做好人-林家谦"><a href="#03-怪我只敢做好人-林家谦" class="headerlink" title="03 怪我只敢做好人   林家谦"></a>03 怪我只敢做好人   林家谦</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-ssNtcWZn" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-gpPaYdOh" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-ssNtcWZn"),
+            element: document.getElementById("aplayer-gpPaYdOh"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -6910,12 +6950,12 @@
 </tbody></table>
 <h3 id="04-十年如一日-陈慧敏"><a href="#04-十年如一日-陈慧敏" class="headerlink" title="04 十年如一日   陈慧敏"></a>04 十年如一日   陈慧敏</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-pKIEFtBc" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-apAxTRLc" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-pKIEFtBc"),
+            element: document.getElementById("aplayer-apAxTRLc"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -6934,6 +6974,8 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=Mzg5MTIyNjgxNg==&mid=2247485071&idx=1&sn=b88722a0d66bf3ea7db137157627ab8d&chksm=cfd1d920f8a65036a90e80513bfee6a0a38556805afe822a72f29a7a149098231c25b6b2ade0&scene=21#wechat_redirect">转载自Everyone Likes Me字幕組——林夕新詞⊹彷似生老病死非枉然·十年如一日 (qq.com)</a></p>
+<p><a href="https://mp.weixin.qq.com/s/t9JdKwj6x4CoEbd2HhCcGw">转载自撻著廣東歌——過去十年，你過得好嗎？ (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>十年如一日</tt><br>
@@ -7012,12 +7054,12 @@
 </tbody></table>
 <h3 id="05-命-蓝奕邦"><a href="#05-命-蓝奕邦" class="headerlink" title="05 命   蓝奕邦"></a>05 命   蓝奕邦</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-IQsRRxWl" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-OJPSpUcL" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-IQsRRxWl"),
+            element: document.getElementById("aplayer-OJPSpUcL"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -7036,6 +7078,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s/xjmkLU1yvZ4pmHCYQQE1_A">转载自Everyone Likes Me字幕組——林夕新詞⊹未能認的別承認 不是命·命 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>命</tt><br>
@@ -7103,12 +7146,12 @@
 </tbody></table>
 <h3 id="06-情定唐人街-蓝奕邦"><a href="#06-情定唐人街-蓝奕邦" class="headerlink" title="06 情定唐人街   蓝奕邦"></a>06 情定唐人街   蓝奕邦</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-uNvUlXgW" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-nyOrBfZU" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-uNvUlXgW"),
+            element: document.getElementById("aplayer-nyOrBfZU"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -7127,6 +7170,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s/t8SXSRVbqUQcOv3mE7UBTg">转载自Everyone Likes Me字幕組——林夕新詞⊹情是金曲你已是名伶·情定唐人街 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>情定唐人街</tt><br>
@@ -7194,12 +7238,12 @@
 </blockquote>
 <h3 id="07-Miss-u-Goodbye-AGA"><a href="#07-Miss-u-Goodbye-AGA" class="headerlink" title="07 Miss u Goodbye   AGA"></a>07 Miss u Goodbye   AGA</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-JLSIFOyG" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-ykMIbBgZ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-JLSIFOyG"),
+            element: document.getElementById("aplayer-ykMIbBgZ"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -7286,12 +7330,12 @@
 </tbody></table>
 <h3 id="08-以为只是没送花-郭嘉骏"><a href="#08-以为只是没送花-郭嘉骏" class="headerlink" title="08 以为只是没送花   郭嘉骏"></a>08 以为只是没送花   郭嘉骏</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-UeGJPqrY" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-nurSuSTJ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-UeGJPqrY"),
+            element: document.getElementById("aplayer-nurSuSTJ"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -7388,12 +7432,12 @@
 </tbody></table>
 <h3 id="09-烈爱成灰-陈慧琳"><a href="#09-烈爱成灰-陈慧琳" class="headerlink" title="09 烈爱成灰   陈慧琳"></a>09 烈爱成灰   陈慧琳</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-nNZABTbj" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-briqmVQd" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-nNZABTbj"),
+            element: document.getElementById("aplayer-briqmVQd"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -7412,6 +7456,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s/yk3mdRhpqiXCV890QLW82w">转载自年粤日——就算化成灰，我都记得你 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>烈爱成灰</tt><br>
@@ -7468,12 +7513,12 @@
 </tbody></table>
 <h3 id="10-谈情的价值-陈慧琳"><a href="#10-谈情的价值-陈慧琳" class="headerlink" title="10 谈情的价值   陈慧琳"></a>10 谈情的价值   陈慧琳</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-FPxpFvHq" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-MumpkPQz" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-FPxpFvHq"),
+            element: document.getElementById("aplayer-MumpkPQz"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -7492,6 +7537,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s/9MF3LVkZGeDwLiCm7sA_vA">转载自年粤日——敢爱敢恨，先有出息 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>Want</tt><br>
@@ -7560,12 +7606,12 @@
 </tbody></table>
 <h3 id="11-Want-周殷廷"><a href="#11-Want-周殷廷" class="headerlink" title="11 Want   周殷廷"></a>11 Want   周殷廷</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-clXPvbWw" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-vqVemclH" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-clXPvbWw"),
+            element: document.getElementById("aplayer-vqVemclH"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -7584,6 +7630,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s/ml_bq3q3MMMuxN7U5voMpQ">转载自年粤日——这位真·隐世歌手竟又出歌了！ (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>Want</tt><br>
@@ -7646,12 +7693,12 @@
 </tbody></table>
 <h1 id="2024年（5-1）"><a href="#2024年（5-1）" class="headerlink" title="2024年（5+1）"></a>2024年（5+1）</h1><h2 id="歌曲集1（共5首）"><a href="#歌曲集1（共5首）" class="headerlink" title="歌曲集1（共5首）"></a>歌曲集1（共5首）</h2><h3 id="01-自己爱情自己爱-cfy"><a href="#01-自己爱情自己爱-cfy" class="headerlink" title="01 自己爱情自己爱   cfy"></a>01 自己爱情自己爱   cfy</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-uxzRBtVC" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-GldbQFQt" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-uxzRBtVC"),
+            element: document.getElementById("aplayer-GldbQFQt"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -7745,12 +7792,12 @@
 </tbody></table>
 <h3 id="02-拯救我自己-陈慧敏"><a href="#02-拯救我自己-陈慧敏" class="headerlink" title="02 拯救我自己   陈慧敏"></a>02 拯救我自己   陈慧敏</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-IhmbdspJ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-fMgVPgRF" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-IhmbdspJ"),
+            element: document.getElementById("aplayer-fMgVPgRF"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -7770,6 +7817,7 @@
 
 <p><strong>歌词与解析：</strong></p>
 <p><a href="https://mp.weixin.qq.com/s?__biz=Mzg5MTIyNjgxNg==&mid=2247485243&idx=1&sn=52f4b2007fa1f97fe416d7d3f10e2c7d&chksm=cfd1d894f8a651826860be935348d9e88a169483fd5baebfa7ce5c8421b2e3e620f80362b575&scene=21#wechat_redirect">转载自Everyone Likes Me字幕組——林夕新詞⊹若怕死 首先拯救自己·拯救我自己 (qq.com)</a></p>
+<p><a href="https://mp.weixin.qq.com/s/aYY8hlxjWm1bWR5YL-nfmw">转载自年粤日——若怕死，首先拯救自己 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>拯救我自己</tt><br>
@@ -7839,12 +7887,12 @@
 </tbody></table>
 <h3 id="03-Control-Freak-小尘埃"><a href="#03-Control-Freak-小尘埃" class="headerlink" title="03 Control Freak   小尘埃"></a>03 Control Freak   小尘埃</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-eurHDwBB" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-LMfvmBmu" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-eurHDwBB"),
+            element: document.getElementById("aplayer-LMfvmBmu"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -7864,6 +7912,7 @@
 
 <p><strong>歌词与解析：</strong></p>
 <p><a href="https://mp.weixin.qq.com/s?__biz=Mzg5MTIyNjgxNg==&mid=2247485233&idx=1&sn=b35d9bf01cdf1240f57695aa84da2787&chksm=cfd1d89ef8a65188d9b32b7422e8c1db9e57addbb67bb8879ad0fd8afa00baed4f07d5843401&scene=21#wechat_redirect">转载自Everyone Likes Me字幕組——林夕新詞⊹天恐怕懶得管我·Control Freak (qq.com)</a></p>
+<p><a href="https://mp.weixin.qq.com/s/q7N3m8DvKMOR0PDen2x1iA">转载自年粤日——放过自己，不做控制狂 (qq.com)</a></p>
 <blockquote class="song">
 <p>
             <tt>Control Freak</tt><br>
@@ -7929,12 +7978,12 @@
 </tbody></table>
 <h3 id="04-普通人-刘威煌"><a href="#04-普通人-刘威煌" class="headerlink" title="04 普通人   刘威煌"></a>04 普通人   刘威煌</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-yxuGMkAw" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-TwrkkHnJ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-yxuGMkAw"),
+            element: document.getElementById("aplayer-TwrkkHnJ"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -7953,6 +8002,7 @@
 
 
 <p><strong>歌词与解析：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s/6lDfwwDuydjp31BrGffzFA">转载自边一个发明了cantopop——『要是人性都差不多，我怕看不清这是我』 (qq.com)</a></p>
 <p><a href="https://mp.weixin.qq.com/s?__biz=Mzg5MTIyNjgxNg==&mid=2247485258&idx=1&sn=8e96de92409679dc36594adb8dba6d9b&chksm=cfd1d8e5f8a651f3adfed6d42c9c6648c22f330cb24bade42e871c06e18b089b3d6820d2e360&scene=21#wechat_redirect">转载自Everyone Likes Me字幕組——林夕新詞⊹誰是誰何必需要想起我·普通人 (qq.com)</a></p>
 <blockquote class="song">
 <p>
@@ -8053,12 +8103,12 @@
 </tbody></table>
 <h3 id="05-百妖夜行的修行-JACE"><a href="#05-百妖夜行的修行-JACE" class="headerlink" title="05 百妖夜行的修行   JACE"></a>05 百妖夜行的修行   JACE</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-MOwvPEvk" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-misaswjX" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-MOwvPEvk"),
+            element: document.getElementById("aplayer-misaswjX"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -8173,12 +8223,12 @@
 </blockquote>
 <h3 id="06-Why-You-AGA"><a href="#06-Why-You-AGA" class="headerlink" title="06 Why You   AGA"></a>06 Why You   AGA</h3><p><strong>MP3：</strong></p>
 
-        <div id="aplayer-FyGmZeyv" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-mudTazGf" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-FyGmZeyv"),
+            element: document.getElementById("aplayer-mudTazGf"),
             narrow: false,
             autoplay: false,
             showlrc: false,
