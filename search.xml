@@ -628,12 +628,12 @@
 </blockquote>
 <p><strong>在线试听：</strong></p>
 
-        <div id="aplayer-YmWHAKPA" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-IaulTqzK" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-YmWHAKPA"),
+            element: document.getElementById("aplayer-IaulTqzK"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -746,6 +746,7 @@
         <tag>2020s</tag>
         <tag>人生</tag>
         <tag>劝慰</tag>
+        <tag>泽日生</tag>
       </tags>
   </entry>
   <entry>
@@ -1936,12 +1937,12 @@
 </blockquote>
 <p><strong>在线试听：</strong></p>
 
-        <div id="aplayer-jgfmgktp" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-ZoVpIeeC" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-jgfmgktp"),
+            element: document.getElementById("aplayer-ZoVpIeeC"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -2075,6 +2076,7 @@
         <tag>人生</tag>
         <tag>劝慰</tag>
         <tag>2024</tag>
+        <tag>泽日生</tag>
       </tags>
   </entry>
   <entry>
@@ -7953,12 +7955,12 @@
 </blockquote>
 <p><strong>在线试听：</strong></p>
 
-        <div id="aplayer-cHbSybgT" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-LYuyJfls" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-cHbSybgT"),
+            element: document.getElementById("aplayer-LYuyJfls"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -8076,6 +8078,7 @@
         <tag>劝慰</tag>
         <tag>林家谦</tag>
         <tag>友情</tag>
+        <tag>泽日生</tag>
       </tags>
   </entry>
   <entry>
