@@ -1,2 +1,10 @@
 User-agent: *
-Disallow: /
+
+Disallow: /page/
+Disallow: /js/
+Disallow: /json/
+Disallow: /img/
+Disallow: /tags/
+Disallow: /categories/
+Disallow: /2024/
+Disallow: /archives/
