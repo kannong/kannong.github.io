@@ -1239,12 +1239,12 @@
 </blockquote>
 <p><strong>在线试听：</strong></p>
 
-        <div id="aplayer-FQsqlJVt" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-tZohjZYL" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-FQsqlJVt"),
+            element: document.getElementById("aplayer-tZohjZYL"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1351,8 +1351,9 @@
         <category>单曲</category>
       </categories>
       <tags>
+        <tag>爱情</tag>
+        <tag>大时代</tag>
         <tag>古巨基</tag>
-        <tag>大时代，爱情</tag>
       </tags>
   </entry>
   <entry>
@@ -6924,12 +6925,12 @@
 </blockquote>
 <p><strong>在线试听：</strong></p>
 
-        <div id="aplayer-MlKXPPwu" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-zKSWKmDV" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-MlKXPPwu"),
+            element: document.getElementById("aplayer-zKSWKmDV"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -11200,12 +11201,12 @@
 </blockquote>
 <p><strong>在线试听：</strong></p>
 
-        <div id="aplayer-GYrlhVsb" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-RsWtNoTy" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-GYrlhVsb"),
+            element: document.getElementById("aplayer-RsWtNoTy"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -11304,7 +11305,8 @@
         <category>单曲</category>
       </categories>
       <tags>
-        <tag>谢安琪，人生哲理</tag>
+        <tag>人生哲理</tag>
+        <tag>谢安琪</tag>
       </tags>
   </entry>
   <entry>
@@ -11312,12 +11314,12 @@
     <url>/2024/06/21/single_songs/2011/2011-46/</url>
     <content><![CDATA[<p><strong>在线试听：</strong></p>
 
-        <div id="aplayer-avpheONx" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-OXjfXjtc" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-avpheONx"),
+            element: document.getElementById("aplayer-OXjfXjtc"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -11416,8 +11418,9 @@
         <category>单曲</category>
       </categories>
       <tags>
+        <tag>政治</tag>
         <tag>陈奕迅</tag>
-        <tag>政治，社会事件</tag>
+        <tag>社会事件</tag>
       </tags>
   </entry>
   <entry>
@@ -11672,12 +11675,12 @@
 </blockquote>
 <p><strong>在线试听：</strong></p>
 
-        <div id="aplayer-QaVFcKIg" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-bNvGrCLR" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-QaVFcKIg"),
+            element: document.getElementById("aplayer-bNvGrCLR"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -11789,7 +11792,11 @@
         <category>单曲</category>
       </categories>
       <tags>
-        <tag>麦浚龙，爱情，古典，佛理，日本</tag>
+        <tag>爱情</tag>
+        <tag>佛理</tag>
+        <tag>日本</tag>
+        <tag>麦浚龙</tag>
+        <tag>古典</tag>
       </tags>
   </entry>
   <entry>
@@ -11800,12 +11807,12 @@
 </blockquote>
 <p><strong>在线试听：</strong></p>
 
-        <div id="aplayer-bSImndZE" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-Mkakeuqv" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-bSImndZE"),
+            element: document.getElementById("aplayer-Mkakeuqv"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -11906,7 +11913,8 @@
         <category>单曲</category>
       </categories>
       <tags>
-        <tag>麦浚龙，佛理</tag>
+        <tag>佛理</tag>
+        <tag>麦浚龙</tag>
       </tags>
   </entry>
   <entry>
@@ -11917,12 +11925,12 @@
 </blockquote>
 <p><strong>在线试听：</strong></p>
 
-        <div id="aplayer-UoLoOWAJ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-jNbkQBmy" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-UoLoOWAJ"),
+            element: document.getElementById("aplayer-jNbkQBmy"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -12028,7 +12036,8 @@
         <category>单曲</category>
       </categories>
       <tags>
-        <tag>麦浚龙，佛理</tag>
+        <tag>佛理</tag>
+        <tag>麦浚龙</tag>
       </tags>
   </entry>
   <entry>
@@ -12039,12 +12048,12 @@
 </blockquote>
 <p><strong>在线试听：</strong></p>
 
-        <div id="aplayer-VOaOofED" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-yoiVtxpI" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-VOaOofED"),
+            element: document.getElementById("aplayer-yoiVtxpI"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -12144,8 +12153,11 @@
         <category>单曲</category>
       </categories>
       <tags>
-        <tag>麦浚龙，雷颂德</tag>
-        <tag>金刚圈，古典，爱情，佛理</tag>
+        <tag>爱情</tag>
+        <tag>佛理</tag>
+        <tag>雷颂德</tag>
+        <tag>麦浚龙</tag>
+        <tag>古典</tag>
       </tags>
   </entry>
   <entry>
@@ -12156,12 +12168,12 @@
 </blockquote>
 <p><strong>在线试听：</strong></p>
 
-        <div id="aplayer-nEVQHYox" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-LWVYIymi" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-nEVQHYox"),
+            element: document.getElementById("aplayer-LWVYIymi"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -12257,7 +12269,8 @@
         <category>单曲</category>
       </categories>
       <tags>
-        <tag>麦浚龙，佛理</tag>
+        <tag>佛理</tag>
+        <tag>麦浚龙</tag>
       </tags>
   </entry>
   <entry>
@@ -14673,8 +14686,9 @@
         <category>单曲</category>
       </categories>
       <tags>
+        <tag>爱情</tag>
+        <tag>影视歌曲</tag>
         <tag>古巨基</tag>
-        <tag>爱情.影视歌曲</tag>
       </tags>
   </entry>
   <entry>
@@ -23545,6 +23559,21 @@
 </tr>
 </thead>
 <tbody><tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-05/">01 柳暗花明-王菀之</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-06/">02 水百合-王菀之</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-07/">03 下次爱你-王菀之</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/08/16/single_songs/2012/2012-05/">04 留白-王菀之</a></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
 <td align="center"><a href="/2024/05/27/single_songs/2020/2020-02/">01 碧玉-王菀之</a></td>
 </tr>
 <tr>
@@ -23561,44 +23590,6 @@
       </categories>
       <tags>
         <tag>王菀之</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>歌单：夕爷给古巨基的作品</title>
-    <url>/2024/05/23/song_lists/artists/xiye-LeoKu/</url>
-    <content><![CDATA[<blockquote>
-<p><strong>说明</strong></p>
-</blockquote>
- <span id="more"></span>
-
-<blockquote>
-<p><strong>本站声明：本网站遵循<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0协议</a>，不具有传输与存储功能，只用于非营利性分享，如有侵权，请通过主页B站或者微博联系本人进行删除. PS：整理不易，转载请注明来自<a href="https://kannong.kanxiyewords.cn/">kannong_xi</a>.</strong></p>
-</blockquote>
-<h2 id="汇合"><a href="#汇合" class="headerlink" title="汇合"></a>汇合</h2><p><a href="">夕爷&amp;古巨基的作品集在线听歌链接（滚动歌词界面）</a></p>
-<p><a href="">百度网盘资源转存链接</a></p>
-<table>
-<thead>
-<tr>
-<th align="center"><strong>歌曲列表</strong></th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center"><a href="/2024/05/24/single_songs/2022/2022-11/">01 自我安慰-古巨基 张天赋</a></td>
-</tr>
-<tr>
-<td align="center"><a href="/2024/05/24/single_songs/2022/2022-12/">02 漂流教室-古巨基 吕爵安</a></td>
-</tr>
-<tr>
-<td align="center"></td>
-</tr>
-</tbody></table>
-]]></content>
-      <categories>
-        <category>歌单</category>
-        <category>歌手</category>
-      </categories>
-      <tags>
-        <tag>古巨基</tag>
       </tags>
   </entry>
   <entry>
@@ -23621,6 +23612,15 @@
 </tr>
 </thead>
 <tbody><tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-45/">01 明我以德-许冠杰 谢安琪 许廷铿 港大学生</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-65/">02 你们的幸福-谢安琪</a></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
 <td align="center"><a href="/2024/05/27/single_songs/2020/2020-11/">01 只想死于你身边-谢安琪</a></td>
 </tr>
 <tr>
@@ -23659,6 +23659,48 @@
 </tr>
 </thead>
 <tbody><tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-06/">01 时代-古巨基</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-07/">02 时代（国）-古巨基</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-08/">03 独男-古巨基</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-09/">04 公主病了-古巨基</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-10/">05 恶搞-古巨基</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-08/">06 犀利歌-古巨基</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-09/">07 Once Upon A Time-古巨基</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-10/">08 明天-古巨基</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-11/">09 够朋友-古巨基 孙楠</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/08/16/single_songs/2012/2012-08/">10 公告天下我爱你-古巨基</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/08/16/single_songs/2012/2012-09/">11 告别我的恋人们-古巨基</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/08/16/single_songs/2012/2012-10/">12 恋无可恋-古巨基</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/08/16/single_songs/2012/2012-11/">13 直到银婚-古巨基</a></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
 <td align="center"><a href="/2024/05/24/single_songs/2022/2022-11/">01 自我安慰-古巨基 张天赋</a></td>
 </tr>
 <tr>
@@ -23695,7 +23737,7 @@
 </tr>
 </thead>
 <tbody><tr>
-<td align="center"></td>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-49/">01 樱吹雪-麦浚龙</a></td>
 </tr>
 <tr>
 <td align="center"></td>
@@ -23733,6 +23775,18 @@
 </tr>
 </thead>
 <tbody><tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-39/">01 绝色-黄耀明</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-54/">02 第二次青春-黄耀明</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-55/">03 红眼症-黄耀明</a></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
 <td align="center"><a href="/2024/05/27/single_songs/2020/2020-05/">01 自由之夏-黄耀明</a></td>
 </tr>
 <tr>
@@ -23807,6 +23861,36 @@
 </tr>
 </thead>
 <tbody><tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-15/">01 走马看黄花-周迅</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-39/">02 绝色-黄耀明</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-49/">03 樱吹雪-麦浚龙</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-50/">04 惊蛰-麦浚龙</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-51/">05 秋分-麦浚龙</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-52/">06 金刚圈-麦浚龙</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-53/">07 无念-麦浚龙</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-57/">08 火鸟-杨千嬅</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-59/">09 无心快意-刘德华</a></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
 <td align="center"><a href="/2024/05/24/single_songs/2022/2022-04/">01 修罗场-许廷鏗</a></td>
 </tr>
 <tr>
@@ -23843,6 +23927,30 @@
 </tr>
 </thead>
 <tbody><tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-06/">01 时代-古巨基</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-07/">02 时代（国）-古巨基</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-08/">03 独男-古巨基</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-09/">04 公主病了-古巨基</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-10/">05 恶搞-古巨基</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-08/">06 犀利歌-古巨基</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-25/">07 美妙生活-林宥嘉</a></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
 <td align="center"><a href="/2024/05/27/single_songs/2020/2020-05/">01 自由之夏-黄耀明</a></td>
 </tr>
 <tr>
@@ -23927,6 +24035,21 @@
 </tr>
 </thead>
 <tbody><tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-40/">01 饮酒思源-杨千嬅</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-11/">02 够朋友-古巨基 孙楠</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-24/">03 陌生老朋友-林俊杰</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/08/16/single_songs/2012/2012-06/">04 这里没有陌生人-群星</a></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
 <td align="center"><a href="/2024/05/24/single_songs/2022/2022-01/">01 某种老朋友-林家谦</a></td>
 </tr>
 <tr>
@@ -23999,6 +24122,21 @@
 </tr>
 </thead>
 <tbody><tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-03/">01 你是哪种人-王梓轩</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-04/">02 人啊人-王梓轩</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-06/">03 水百合-王菀之</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-47/">04 神奇化妆师-陈奕迅</a></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
 <td align="center"><a href="/2024/05/27/single_songs/2020/2020-08/">01 贱-许廷鏗</a></td>
 </tr>
 <tr>
@@ -24065,6 +24203,75 @@
 </tr>
 </thead>
 <tbody><tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-06/">01 时代-古巨基</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-07/">02 时代（国）-古巨基</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-22/">03 三岁或八十-侧田</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-29/">04 中锋-梁汉文</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-38/">05 远视-冯曦妤</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-41/">06 我係我-杨千嬅</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-44/">07 另一个舞台-关心妍</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-12/">08 圆缺-朱紫娆 苏永康</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-13/">09 Carry On-吴雨霏</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-16/">10 摇身一变-吴建飞</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-19/">11 放下的力量-周慧敏</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-22/">12 非凡-林欣彤</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-25/">13 美妙生活-林宥嘉</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-31/">14 梦想-胡夏 陈翔 付辛博</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-33/">15 迫不及待-孙楠</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-36/">16 一个人对话-张惠妹</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-43/">17 左爱右爱-曹芙嘉 Garou</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-45/">18 明我以德-许冠杰 谢安琪 许廷铿 港大学生</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-57/">19 火鸟-杨千嬅</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-59/">20 无心快意-刘德华</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-65/">21 你们的幸福-谢安琪</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/08/16/single_songs/2012/2012-07/">22 大汗-王识贤</a></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
 <td align="center"><a href="/2024/05/27/single_songs/2020/2020-07/">01 慌-许廷鏗</a></td>
 </tr>
 <tr>
@@ -24179,6 +24386,12 @@
 </tr>
 </thead>
 <tbody><tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-46/">01 六月飞霜-陈奕迅</a></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
 <td align="center"><a href="/2024/05/27/single_songs/2020/2020-05/">01 自由之夏-黄耀明</a></td>
 </tr>
 <tr>
@@ -24215,6 +24428,201 @@
 </tr>
 </thead>
 <tbody><tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-01/">01 男人信什么-JW 卫兰 </a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-02/">02 一生一世-方力申  钟欣潼</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-09/">03 公主病了-古巨基</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-11/">04 我对不起我-田馥甄</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-12/">05 你太猖狂-田馥甄</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-13/">06 好好就好-何润东 景甜</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-14/">07 可多不可少-狄易达</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-17/">08 我不要被你记住-周柏豪</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-18/">09 这样爱你好可怕-林凡</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-19/">10 还有一生的时间-泳儿</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-21/">11 爱的习惯-侧田</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-23/">12 春秋-张敬轩</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-24/">13 隔夜茶-张敬轩</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-25/">14 无人认领-洪卓立</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-26/">15 无人认领（国）-洪卓立</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-27/">16 我们都辜负了爱-张靓颖</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-28/">17 夏花秋叶-梁咏琪</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-33/">18 一丝不挂-陈奕迅</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-34/">19 多此一爱-陈柏宇</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-35/">20 关注我-陈柏宇</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-36/">21 永远的福气-陈慧琳</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-37/">22 超生培欲-麦浚龙</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-39/">23 绝色-黄耀明</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-43/">24 他为你挟菜-刘若英</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-45/">25 以身试爱-关心妍</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-07/">26 下次爱你-王菀之</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-09/">27 Once Upon A Time-古巨基</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-14/">28 我傻女-吴雨霏</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-15/">29 我本人-吴雨霏</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-18/">30 无双谱-周慧敏</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-21/">31 泪光闪闪-岳薇</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-26/">32 人一个-林峯</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-27/">33 还泪-林鹏</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-28/">34 就手-泳儿</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-29/">35 为你唱Demo-泳儿</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-30/">36 未拆的礼物-品冠</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-32/">37 伤不起-郁可唯</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-34/">38 自从你来过-海悦</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-35/">39 都什么时候了-张惠妹</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-37/">40 还有眼泪就好-张惠妹</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-38/">41 我最亲爱的-张惠妹</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-39/">42 他们-张惠妹</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-40/">43 冧爆你-张智霖</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-41/">44 错就错-张靓颖</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-42/">45 真爱的味道-张靓颖</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-43/">46 左爱右爱-曹芙嘉 Garou</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-44/">47 一直相爱-许志安</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-48/">48 赞赞自己-陈柏宇</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-49/">49 樱吹雪-麦浚龙</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-52/">50 金刚圈-麦浚龙</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-60/">51 爱没有假如-卫兰</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-61/">52 Do Re Mi-郑秀文</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-62/">53 Do Re Mi（国）-郑秀文</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-64/">54 喉咙沙哑-邓颖芝</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-66/">55 啰唆-钟嘉欣</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-67/">56 在你名下-关心妍</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/08/16/single_songs/2012/2012-01/">57 围城-A-Lin</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/08/16/single_songs/2012/2012-02/">58 大过天-Twins</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/08/16/single_songs/2012/2012-03/">59 忘了我也不错-王心凌</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/08/16/single_songs/2012/2012-04/">60 上了你的瘾-王心凌</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/08/16/single_songs/2012/2012-08/">61 公告天下我爱你-古巨基</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/08/16/single_songs/2012/2012-09/">62 告别我的恋人们-古巨基</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/08/16/single_songs/2012/2012-10/">63 恋无可恋-古巨基</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/08/16/single_songs/2012/2012-11/">64 直到银婚-古巨基</a></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
 <td align="center"><a href="/2024/05/27/single_songs/2020/2020-01/">01 幻爱（国语版）-小尘埃</a></td>
 </tr>
 <tr>
@@ -24287,6 +24695,15 @@
 </tr>
 </thead>
 <tbody><tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-39/">01 绝色-黄耀明</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-05/">02 柳暗花明-王菀之</a></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
 <td align="center"><a href="/2024/05/22/single_songs/2024/2024-05/">01 百妖夜行的修行-JACE</a></td>
 </tr>
 <tr>
@@ -24323,6 +24740,15 @@
 </tr>
 </thead>
 <tbody><tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-25/">01 美妙生活-林宥嘉</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-65/">02 你们的幸福-谢安琪</a></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
 <td align="center"><a href="/2024/05/23/single_songs/2023/2023-02/">01 未生-吴林峰</a></td>
 </tr>
 <tr>
@@ -24359,6 +24785,75 @@
 </tr>
 </thead>
 <tbody><tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-01/">01 男人信什么-JW 卫兰 </a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-31/">02 完美孤独-莫文蔚</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-32/">03 洗澡歌-莫文蔚</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-33/">04 一丝不挂-陈奕迅</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-42/">05 长恨苦短-齐秦</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-43/">06 他为你挟菜-刘若英</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-02/">07 换画-Mr.</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-23/">08 非同儿戏-林欣彤</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-32/">09 伤不起-郁可唯</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-36/">10 一个人对话-张惠妹</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-37/">11 还有眼泪就好-张惠妹</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-39/">12 他们-张惠妹</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-58/">13 还过得去-杨幂</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-60/">14 爱没有假如-卫兰</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-61/">15 Do Re Mi-郑秀文</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-62/">16 Do Re Mi（国）-郑秀文</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-64/">17 喉咙沙哑-邓颖芝</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-64/">18 情-黎明</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-65/">19 你们的幸福-谢安琪</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-66/">20 啰唆-钟嘉欣</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-68/">21 似风如水-关菊英</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/08/16/single_songs/2012/2012-01/">22 围城-A-Lin</a></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
 <td align="center"><a href="/2024/05/27/single_songs/2020/2020-10/">01 亲密距离-刘美君</a></td>
 </tr>
 <tr>
@@ -24410,6 +24905,51 @@
 </tr>
 </thead>
 <tbody><tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-02/">01 一生一世-方力申  钟欣潼</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-12/">02 你太猖狂-田馥甄</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-13/">03 好好就好-何润东 景甜</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-15/">04 走马看黄花-周迅</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-04/">05 人啊人-王梓轩</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-17/">06 飞跃奇妙-李克勤 陈慧琳</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-20/">06 水漫金山-岳薇</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-27/">07 还泪-林鹏</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-42/">08 真爱的味道-张靓颖</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-58/">09 还过得去-杨幂</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-61/">10 Do Re Mi-郑秀文</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-62/">11 Do Re Mi（国）-郑秀文</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/08/16/single_songs/2012/2012-08/">12 公告天下我爱你-古巨基</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/08/16/single_songs/2012/2012-10/">13 恋无可恋-古巨基</a></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
 <td align="center"><a href="/2024/05/27/single_songs/2020/2020-01/">01 幻爱（国语版）-小尘埃</a></td>
 </tr>
 <tr>
@@ -24593,6 +25133,15 @@
 </tr>
 </thead>
 <tbody><tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-33/">01 一丝不挂-陈奕迅</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-65/">02 你们的幸福-谢安琪</a></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
 <td align="center"><a href="/2024/05/27/single_songs/2020/2020-09/">01 谎-许廷鏗</a></td>
 </tr>
 <tr>
@@ -24644,6 +25193,18 @@
 </tr>
 </thead>
 <tbody><tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-40/">01 饮酒思源-杨千嬅</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-44/">02 另一个舞台-关心妍</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-57/">03 火鸟-杨千嬅</a></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
 <td align="center"><a href="/2024/05/26/single_songs/2021/2021-01/">01 废柴-小肥</a></td>
 </tr>
 <tr>
@@ -24680,6 +25241,33 @@
 </tr>
 </thead>
 <tbody><tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-29/">01 中锋-梁汉文</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-45/">02 以身试爱-关心妍</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-14/">03 我傻女-吴雨霏</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-23/">04 非同儿戏-林欣彤</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-26/">05 人一个-林峯</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-27/">06 还泪-林鹏</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-29/">07 为你唱Demo-泳儿</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-67/">08 在你名下-关心妍</a></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
 <td align="center"><a href="/2024/05/26/single_songs/2021/2021-08/">01 两种人 Love Follows-何嘉莉</a></td>
 </tr>
 <tr>
@@ -24950,7 +25538,7 @@
 </tr>
 <tr>
 <td align="center"><a href="/2024/06/21/single_songs/2011/2011-51/">51 秋分-麦浚龙</a></td>
-<td align="center"><a href="/2024/06/21/single_songs/2011/2011-52/">52金刚圈-麦浚龙</a></td>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-52/">52 金刚圈-麦浚龙</a></td>
 </tr>
 <tr>
 <td align="center"><a href="/2024/06/21/single_songs/2011/2011-53/">53 无念-麦浚龙</a></td>
@@ -24974,7 +25562,7 @@
 </tr>
 <tr>
 <td align="center"><a href="/2024/06/21/single_songs/2011/2011-64/">63 喉咙沙哑-邓颖芝</a></td>
-<td align="center"><a href="/2024/06/21/single_songs/2011/2011-64/">64情-黎明</a></td>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-64/">64 情-黎明</a></td>
 </tr>
 <tr>
 <td align="center"><a href="/2024/06/21/single_songs/2011/2011-65/">65 你们的幸福-谢安琪</a></td>
@@ -46761,6 +47349,741 @@
       </categories>
       <tags>
         <tag>2014</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>歌单：夕爷给陈奕迅的作品</title>
+    <url>/2024/05/23/song_lists/artists/xiye-eason/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>说明</strong></p>
+</blockquote>
+ <span id="more"></span>
+
+<blockquote>
+<p><strong>本站声明：本网站遵循<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0协议</a>，不具有传输与存储功能，只用于非营利性分享，如有侵权，请通过主页B站或者微博联系本人进行删除. PS：整理不易，转载请注明来自<a href="https://kannong.kanxiyewords.cn/">kannong_xi</a>.</strong></p>
+</blockquote>
+<h2 id="汇合"><a href="#汇合" class="headerlink" title="汇合"></a>汇合</h2><p><a href="">夕爷&amp;王菀之的作品集在线听歌链接（滚动歌词界面）</a></p>
+<p><a href="">百度网盘资源转存链接</a></p>
+<table>
+<thead>
+<tr>
+<th align="center"><strong>歌曲列表</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-33/">01 一丝不挂-陈奕迅</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-46/">02 六月飞霜-陈奕迅</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-47/">03 神奇化妆师-陈奕迅</a></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>歌单</category>
+        <category>歌手</category>
+      </categories>
+      <tags>
+        <tag>陈奕迅</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>歌单：夕爷给张敬轩的作品</title>
+    <url>/2024/05/23/song_lists/artists/xiye-hins/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>说明</strong></p>
+</blockquote>
+ <span id="more"></span>
+
+<blockquote>
+<p><strong>本站声明：本网站遵循<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0协议</a>，不具有传输与存储功能，只用于非营利性分享，如有侵权，请通过主页B站或者微博联系本人进行删除. PS：整理不易，转载请注明来自<a href="https://kannong.kanxiyewords.cn/">kannong_xi</a>.</strong></p>
+</blockquote>
+<h2 id="汇合"><a href="#汇合" class="headerlink" title="汇合"></a>汇合</h2><p><a href="">夕爷&amp;王菀之的作品集在线听歌链接（滚动歌词界面）</a></p>
+<p><a href="">百度网盘资源转存链接</a></p>
+<table>
+<thead>
+<tr>
+<th align="center"><strong>歌曲列表</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-23/">01 春秋-张敬轩</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-24/">02 隔夜茶-张敬轩</a></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>歌单</category>
+        <category>歌手</category>
+      </categories>
+      <tags>
+        <tag>张敬轩</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>歌单：夕爷给麦浚龙的作品</title>
+    <url>/2024/05/23/song_lists/artists/xiye-juno/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>说明</strong></p>
+</blockquote>
+ <span id="more"></span>
+
+<blockquote>
+<p><strong>本站声明：本网站遵循<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0协议</a>，不具有传输与存储功能，只用于非营利性分享，如有侵权，请通过主页B站或者微博联系本人进行删除. PS：整理不易，转载请注明来自<a href="https://kannong.kanxiyewords.cn/">kannong_xi</a>.</strong></p>
+</blockquote>
+<h2 id="汇合"><a href="#汇合" class="headerlink" title="汇合"></a>汇合</h2><p><a href="">夕爷&amp;王菀之的作品集在线听歌链接（滚动歌词界面）</a></p>
+<p><a href="">百度网盘资源转存链接</a></p>
+<table>
+<thead>
+<tr>
+<th align="center"><strong>歌曲列表</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-37/">01 超生培欲-麦浚龙</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-49/">02 樱吹雪-麦浚龙</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-50/">03 惊蛰-麦浚龙</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-51/">04 秋分-麦浚龙</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-52/">05 金刚圈-麦浚龙</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-53/">06 无念-麦浚龙</a></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>歌单</category>
+        <category>歌手</category>
+      </categories>
+      <tags>
+        <tag>麦浚龙</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>歌单：夕爷给Twins的作品</title>
+    <url>/2024/05/23/song_lists/artists/xiye-twins/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>说明</strong></p>
+</blockquote>
+ <span id="more"></span>
+
+<blockquote>
+<p><strong>本站声明：本网站遵循<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0协议</a>，不具有传输与存储功能，只用于非营利性分享，如有侵权，请通过主页B站或者微博联系本人进行删除. PS：整理不易，转载请注明来自<a href="https://kannong.kanxiyewords.cn/">kannong_xi</a>.</strong></p>
+</blockquote>
+<h2 id="汇合"><a href="#汇合" class="headerlink" title="汇合"></a>汇合</h2><p><a href="">夕爷&amp;王菀之的作品集在线听歌链接（滚动歌词界面）</a></p>
+<p><a href="">百度网盘资源转存链接</a></p>
+<table>
+<thead>
+<tr>
+<th align="center"><strong>歌曲列表</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center"><a href="/2024/08/16/single_songs/2012/2012-02/">01 大过天-Twins</a></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>歌单</category>
+        <category>歌手</category>
+      </categories>
+      <tags>
+        <tag>Twins</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>歌单：夕爷给卫兰的作品</title>
+    <url>/2024/05/23/song_lists/artists/xiye-weilan/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>说明</strong></p>
+</blockquote>
+ <span id="more"></span>
+
+<blockquote>
+<p><strong>本站声明：本网站遵循<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0协议</a>，不具有传输与存储功能，只用于非营利性分享，如有侵权，请通过主页B站或者微博联系本人进行删除. PS：整理不易，转载请注明来自<a href="https://kannong.kanxiyewords.cn/">kannong_xi</a>.</strong></p>
+</blockquote>
+<h2 id="汇合"><a href="#汇合" class="headerlink" title="汇合"></a>汇合</h2><p><a href="">夕爷&amp;王菀之的作品集在线听歌链接（滚动歌词界面）</a></p>
+<p><a href="">百度网盘资源转存链接</a></p>
+<table>
+<thead>
+<tr>
+<th align="center"><strong>歌曲列表</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-01/">01 男人信什么-JW 卫兰 </a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-60/">02 爱没有假如-卫兰</a></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>歌单</category>
+        <category>歌手</category>
+      </categories>
+      <tags>
+        <tag>古巨基</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>歌单：夕爷给杨千嬅的作品</title>
+    <url>/2024/05/23/song_lists/artists/xiye-yangqianhua/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>说明</strong></p>
+</blockquote>
+ <span id="more"></span>
+
+<blockquote>
+<p><strong>本站声明：本网站遵循<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0协议</a>，不具有传输与存储功能，只用于非营利性分享，如有侵权，请通过主页B站或者微博联系本人进行删除. PS：整理不易，转载请注明来自<a href="https://kannong.kanxiyewords.cn/">kannong_xi</a>.</strong></p>
+</blockquote>
+<h2 id="汇合"><a href="#汇合" class="headerlink" title="汇合"></a>汇合</h2><p><a href="">夕爷&amp;王菀之的作品集在线听歌链接（滚动歌词界面）</a></p>
+<p><a href="">百度网盘资源转存链接</a></p>
+<table>
+<thead>
+<tr>
+<th align="center"><strong>歌曲列表</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-40/">01 饮酒思源-杨千嬅</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-41/">02 我係我-杨千嬅</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-56/">03 哭出来-杨千嬅</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-57/">04 火鸟-杨千嬅</a></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>歌单</category>
+        <category>歌手</category>
+      </categories>
+      <tags>
+        <tag>杨千嬅</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>歌单：夕爷关于古典的作品</title>
+    <url>/2024/05/23/song_lists/attributes/xiye-classic/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>歌单简介：关于⼈内⼼世界的细致刻画、反思。</strong></p>
+</blockquote>
+ <span id="more"></span>
+
+<blockquote>
+<p><strong>本站声明：本网站遵循<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0协议</a>，不具有传输与存储功能，只用于非营利性分享，如有侵权，请通过主页B站或者微博联系本人进行删除. PS：整理不易，转载请注明来自<a href="https://kannong.kanxiyewords.cn/">kannong_xi</a>.</strong></p>
+</blockquote>
+<h2 id="汇合"><a href="#汇合" class="headerlink" title="汇合"></a>汇合</h2><table>
+<thead>
+<tr>
+<th align="center"><strong>歌曲列表</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-49/">01 樱吹雪-麦浚龙</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-52/">02 金刚圈-麦浚龙</a></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>歌单</category>
+        <category>属性</category>
+      </categories>
+      <tags>
+        <tag>古典</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>歌单：夕爷关于励志的作品</title>
+    <url>/2024/05/23/song_lists/attributes/xiye-motive/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>歌单简介：关于⼈内⼼世界的细致刻画、反思。</strong></p>
+</blockquote>
+ <span id="more"></span>
+
+<blockquote>
+<p><strong>本站声明：本网站遵循<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0协议</a>，不具有传输与存储功能，只用于非营利性分享，如有侵权，请通过主页B站或者微博联系本人进行删除. PS：整理不易，转载请注明来自<a href="https://kannong.kanxiyewords.cn/">kannong_xi</a>.</strong></p>
+</blockquote>
+<h2 id="汇合"><a href="#汇合" class="headerlink" title="汇合"></a>汇合</h2><table>
+<thead>
+<tr>
+<th align="center"><strong>歌曲列表</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-10/">01 明天-古巨基</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-31/">02 梦想-胡夏 陈翔 付辛博</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-33/">03 迫不及待-孙楠</a></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>歌单</category>
+        <category>属性</category>
+      </categories>
+      <tags>
+        <tag>励志</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>歌单：夕爷关于自我剖析的作品</title>
+    <url>/2024/05/23/song_lists/attributes/xiye-self/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>歌单简介：关于⼈内⼼世界的细致刻画、反思。</strong></p>
+</blockquote>
+ <span id="more"></span>
+
+<blockquote>
+<p><strong>本站声明：本网站遵循<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0协议</a>，不具有传输与存储功能，只用于非营利性分享，如有侵权，请通过主页B站或者微博联系本人进行删除. PS：整理不易，转载请注明来自<a href="https://kannong.kanxiyewords.cn/">kannong_xi</a>.</strong></p>
+</blockquote>
+<h2 id="汇合"><a href="#汇合" class="headerlink" title="汇合"></a>汇合</h2><table>
+<thead>
+<tr>
+<th align="center"><strong>歌曲列表</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-22/">01 三岁或八十-侧田</a></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>歌单</category>
+        <category>属性</category>
+      </categories>
+      <tags>
+        <tag>自我剖析</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>歌单：夕爷关于社会事件的作品</title>
+    <url>/2024/05/23/song_lists/attributes/xiye-society%20-happen/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>歌单简介：反映社会大众关注、与公共利益密切相关的议题</strong></p>
+</blockquote>
+ <span id="more"></span>
+
+<blockquote>
+<p><strong>本站声明：本网站遵循<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0协议</a>，不具有传输与存储功能，只用于非营利性分享，如有侵权，请通过主页B站或者微博联系本人进行删除. PS：整理不易，转载请注明来自<a href="https://kannong.kanxiyewords.cn/">kannong_xi</a>.</strong></p>
+</blockquote>
+<h2 id="汇合"><a href="#汇合" class="headerlink" title="汇合"></a>汇合</h2><table>
+<thead>
+<tr>
+<th align="center"><strong>歌曲列表</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-46/">01 六月飞霜-陈奕迅</a></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>歌单</category>
+        <category>属性</category>
+      </categories>
+      <tags>
+        <tag>社会事件</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>歌单：夕爷关于意识流的作品</title>
+    <url>/2024/05/23/song_lists/attributes/xiye-stream/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>歌单简介：关于⼈内⼼世界的细致刻画、反思。</strong></p>
+</blockquote>
+ <span id="more"></span>
+
+<blockquote>
+<p><strong>本站声明：本网站遵循<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0协议</a>，不具有传输与存储功能，只用于非营利性分享，如有侵权，请通过主页B站或者微博联系本人进行删除. PS：整理不易，转载请注明来自<a href="https://kannong.kanxiyewords.cn/">kannong_xi</a>.</strong></p>
+</blockquote>
+<h2 id="汇合"><a href="#汇合" class="headerlink" title="汇合"></a>汇合</h2><table>
+<thead>
+<tr>
+<th align="center"><strong>歌曲列表</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-30/">01 洗澡时唱的歌-莫文蔚</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/08/16/single_songs/2012/2012-05/">02 留白-王菀之</a></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>歌单</category>
+        <category>属性</category>
+      </categories>
+      <tags>
+        <tag>意识流</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>歌单：夕爷与C.Y.Kong合作的作品</title>
+    <url>/2024/05/27/song_lists/composer/xiye-c-y-kong/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>歌单简介</strong></p>
+</blockquote>
+ <span id="more"></span>
+
+<blockquote>
+<p><strong>本站声明：本网站遵循<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0协议</a>，不具有传输与存储功能，只用于非营利性分享，如有侵权，请通过主页B站或者微博联系本人进行删除. PS：整理不易，转载请注明来自<a href="https://kannong.kanxiyewords.cn/">kannong_xi</a>.</strong></p>
+</blockquote>
+<h2 id="汇合"><a href="#汇合" class="headerlink" title="汇合"></a>汇合</h2><table>
+<thead>
+<tr>
+<th align="center"><strong>歌曲列表</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-58/">01 还过得去-杨幂</a></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>歌单</category>
+        <category>作曲家</category>
+      </categories>
+      <tags>
+        <tag>C.Y.Kong</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>歌单：夕爷与雷颂德合作的作品</title>
+    <url>/2024/05/27/song_lists/composer/xiye-leisongde/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>歌单简介</strong></p>
+</blockquote>
+ <span id="more"></span>
+
+<blockquote>
+<p><strong>本站声明：本网站遵循<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0协议</a>，不具有传输与存储功能，只用于非营利性分享，如有侵权，请通过主页B站或者微博联系本人进行删除. PS：整理不易，转载请注明来自<a href="https://kannong.kanxiyewords.cn/">kannong_xi</a>.</strong></p>
+</blockquote>
+<h2 id="汇合"><a href="#汇合" class="headerlink" title="汇合"></a>汇合</h2><table>
+<thead>
+<tr>
+<th align="center"><strong>歌曲列表</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-21/">01 爱的习惯-侧田</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/15/single_songs/2010/2010-36/">02 永远的福气-陈慧琳</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-13/">03 Carry On-吴雨霏</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-40/">04 冧爆你-张智霖</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-44/">05 一直相爱-许志安</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-52/">06 金刚圈-麦浚龙</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-64/">07 情-黎明</a></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>歌单</category>
+        <category>作曲家</category>
+      </categories>
+      <tags>
+        <tag>雷颂德</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>歌单：夕爷与罗大佑合作的作品</title>
+    <url>/2024/05/27/song_lists/composer/xiye-luodayou/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>歌单简介</strong></p>
+</blockquote>
+ <span id="more"></span>
+
+<blockquote>
+<p><strong>本站声明：本网站遵循<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0协议</a>，不具有传输与存储功能，只用于非营利性分享，如有侵权，请通过主页B站或者微博联系本人进行删除. PS：整理不易，转载请注明来自<a href="https://kannong.kanxiyewords.cn/">kannong_xi</a>.</strong></p>
+</blockquote>
+<h2 id="汇合"><a href="#汇合" class="headerlink" title="汇合"></a>汇合</h2><table>
+<thead>
+<tr>
+<th align="center"><strong>歌曲列表</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-61/">01 Do Re Mi-郑秀文</a></td>
+</tr>
+<tr>
+<td align="center"><a href="/2024/06/21/single_songs/2011/2011-62/">02 Do Re Mi（国）-郑秀文</a></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>歌单</category>
+        <category>作曲家</category>
+      </categories>
+      <tags>
+        <tag>罗大佑</tag>
       </tags>
   </entry>
 </search>
